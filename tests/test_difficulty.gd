@@ -18,6 +18,8 @@ func _initialize() -> void:
 	check("is_boss_level(5)", Difficulty.is_boss_level(5), true)
 	check("is_boss_level(6)", Difficulty.is_boss_level(6), false)
 	check("boss_bullet_count_for_level(1)", Difficulty.boss_bullet_count_for_level(1), 3)
+	check("enemy_speed_multiplier(1000) clamps", Difficulty.enemy_speed_multiplier(1000), GameConstants.MAX_SPEED_MULTIPLIER)
+	check("boss_fire_interval_for_level(1000) floors", Difficulty.boss_fire_interval_for_level(1000), GameConstants.BOSS_FIRE_INTERVAL_MIN)
 	if failures == 0:
 		print("ALL PASS")
 	else:

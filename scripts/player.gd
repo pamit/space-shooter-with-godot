@@ -58,12 +58,9 @@ func _fire() -> void:
 	if fire_sfx.stream != null:
 		fire_sfx.play()
 
-func apply_shield(active: bool) -> void:
-	_shield_active = active
-
 func add_weapon_boost() -> void:
 	_weapon_boost_count += 1
-	fire_rate = _base_fire_rate / 3.0
+	fire_rate = _base_fire_rate / GameConstants.WEAPON_BOOST_DIVISOR
 
 func remove_weapon_boost() -> void:
 	_weapon_boost_count = max(_weapon_boost_count - 1, 0)
@@ -72,7 +69,7 @@ func remove_weapon_boost() -> void:
 
 func add_speed_boost() -> void:
 	_speed_boost_count += 1
-	speed_multiplier = 1.6
+	speed_multiplier = GameConstants.SPEED_BOOST_MULTIPLIER
 
 func remove_speed_boost() -> void:
 	_speed_boost_count = max(_speed_boost_count - 1, 0)
@@ -97,7 +94,10 @@ func take_damage(amount: float) -> void:
 		hit_sfx.play()
 
 func _on_area_entered(area: Node) -> void:
-	if area.is_in_group("enemy_bullet") or area.is_in_group("enemy"):
+	if area.is_in_group("enemy_bullet"):
 		take_damage(GameConstants.ENEMY_CONTACT_DAMAGE)
-		if area.has_method("queue_free"):
-			area.queue_free()
+		area.queue_free()
+	elif area.is_in_group("enemy"):
+		take_damage(GameConstants.ENEMY_CONTACT_DAMAGE)
+		if area.has_method("take_damage"):
+			area.take_damage(99999.0)

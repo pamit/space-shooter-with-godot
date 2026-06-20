@@ -52,4 +52,4 @@ func _apply_speed(player: Node) -> void:
 func _apply_bomb() -> void:
 	for enemy in get_tree().get_nodes_in_group("enemy"):
 		if enemy.has_method("take_damage"):
-			enemy.take_damage(999.0)
+			enemy.take_damage(GameConstants.BOMB_DAMAGE)

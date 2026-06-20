@@ -32,3 +32,9 @@ const SCORE_PER_LEVEL := 50
 
 # Pickups
 const PICKUP_DURATION := 6.0
+const WEAPON_BOOST_DIVISOR := 3.0
+const SPEED_BOOST_MULTIPLIER := 1.6
+const BOMB_DAMAGE := 999.0
+
+# Enemy shooter
+const SHOOTER_FIRE_INTERVAL := 1.5

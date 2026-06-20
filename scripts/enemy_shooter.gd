@@ -9,7 +9,7 @@ func _physics_process(delta: float) -> void:
 	_fire_timer -= delta
 	if _fire_timer <= 0.0:
 		_fire()
-		_fire_timer = 1.5
+		_fire_timer = GameConstants.SHOOTER_FIRE_INTERVAL
 	super._physics_process(delta)
 
 func _fire() -> void:
