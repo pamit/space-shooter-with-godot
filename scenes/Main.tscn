@@ -37,6 +37,7 @@ enemy_scenes = {
 [node name="GameOverPanel" type="Control" parent="."]
 anchors_preset = 15
 visible = false
+process_mode = 3
 
 [node name="FinalScoreLabel" type="Label" parent="GameOverPanel"]
 offset_left = 270.0
