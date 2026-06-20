@@ -24,6 +24,7 @@ const BOSS_FIRE_INTERVAL_DECAY := 0.05
 
 # Player
 const PLAYER_MAX_HP := 100.0
+const ENEMY_CONTACT_DAMAGE := 20.0
 
 # Score
 const SCORE_PER_KILL := 10

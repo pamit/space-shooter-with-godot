@@ -19,17 +19,13 @@ func _ready() -> void:
 func _input(event: InputEvent) -> void:
 	if event is InputEventScreenTouch:
 		if event.pressed:
-			if get_rect_global().has_point(event.position) or true:
-				_dragging = true
-				_drag_offset = global_position - event.position
+			_dragging = true
+			_drag_offset = global_position - event.position
 		else:
 			_dragging = false
 	elif event is InputEventScreenDrag and _dragging:
 		global_position = event.position + _drag_offset
 		_clamp_to_screen()
-
-func get_rect_global() -> Rect2:
-	return Rect2(global_position - Vector2(40, 40), Vector2(80, 80))
 
 func _clamp_to_screen() -> void:
 	global_position.x = clamp(global_position.x, 30, GameConstants.VIEWPORT_W - 30)
@@ -60,6 +56,6 @@ func take_damage(amount: float) -> void:
 
 func _on_area_entered(area: Node) -> void:
 	if area.is_in_group("enemy_bullet") or area.is_in_group("enemy"):
-		take_damage(20.0)
+		take_damage(GameConstants.ENEMY_CONTACT_DAMAGE)
 		if area.has_method("queue_free"):
 			area.queue_free()
