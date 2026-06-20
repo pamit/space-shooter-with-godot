@@ -1,0 +1,32 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/main_menu.gd" id="1"]
+
+[node name="MainMenu" type="Control"]
+script = ExtResource("1")
+anchors_preset = 15
+
+[node name="Title" type="Label" parent="."]
+offset_left = 240.0
+offset_top = 300.0
+text = "SPACE SHOOTER"
+
+[node name="HighScoreLabel" type="Label" parent="."]
+offset_left = 270.0
+offset_top = 360.0
+text = "High Score: 0"
+
+[node name="PlayButton" type="Button" parent="."]
+offset_left = 300.0
+offset_top = 420.0
+offset_right = 420.0
+offset_bottom = 460.0
+text = "PLAY"
+
+[node name="MuteButton" type="CheckButton" parent="."]
+offset_left = 300.0
+offset_top = 480.0
+text = "Mute"
+
+[connection signal="pressed" from="PlayButton" to="." method="_on_play_pressed"]
+[connection signal="toggled" from="MuteButton" to="." method="_on_mute_toggled"]
