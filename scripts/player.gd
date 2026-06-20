@@ -12,9 +12,17 @@ var _drag_offset: Vector2 = Vector2.ZERO
 var _dragging: bool = false
 var _shield_active: bool = false
 
+var _base_fire_rate: float = 0.0
+var _base_speed_multiplier: float = 0.0
+var _weapon_boost_count: int = 0
+var _speed_boost_count: int = 0
+var _shield_count: int = 0
+
 func _ready() -> void:
 	add_to_group("player")
 	GameManager.start_run()
+	_base_fire_rate = fire_rate
+	_base_speed_multiplier = speed_multiplier
 
 func _input(event: InputEvent) -> void:
 	if event is InputEventScreenTouch:
@@ -47,6 +55,33 @@ func _fire() -> void:
 
 func apply_shield(active: bool) -> void:
 	_shield_active = active
+
+func add_weapon_boost() -> void:
+	_weapon_boost_count += 1
+	fire_rate = _base_fire_rate / 3.0
+
+func remove_weapon_boost() -> void:
+	_weapon_boost_count = max(_weapon_boost_count - 1, 0)
+	if _weapon_boost_count == 0:
+		fire_rate = _base_fire_rate
+
+func add_speed_boost() -> void:
+	_speed_boost_count += 1
+	speed_multiplier = 1.6
+
+func remove_speed_boost() -> void:
+	_speed_boost_count = max(_speed_boost_count - 1, 0)
+	if _speed_boost_count == 0:
+		speed_multiplier = _base_speed_multiplier
+
+func add_shield() -> void:
+	_shield_count += 1
+	_shield_active = true
+
+func remove_shield() -> void:
+	_shield_count = max(_shield_count - 1, 0)
+	if _shield_count == 0:
+		_shield_active = false
 
 func take_damage(amount: float) -> void:
 	if _shield_active:

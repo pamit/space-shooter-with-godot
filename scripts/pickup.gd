@@ -27,23 +27,21 @@ func _on_area_entered(area: Node) -> void:
 	queue_free()
 
 func _apply_weapon_boost(player: Node) -> void:
-	var original: float = player.fire_rate
-	player.fire_rate = original / 3.0
+	player.add_weapon_boost()
 	get_tree().create_timer(GameConstants.PICKUP_DURATION).timeout.connect(
-		func(): player.fire_rate = original
+		func(): player.remove_weapon_boost()
 	)
 
 func _apply_shield(player: Node) -> void:
-	player.apply_shield(true)
+	player.add_shield()
 	get_tree().create_timer(GameConstants.PICKUP_DURATION).timeout.connect(
-		func(): player.apply_shield(false)
+		func(): player.remove_shield()
 	)
 
 func _apply_speed(player: Node) -> void:
-	var original: float = player.speed_multiplier
-	player.speed_multiplier = 1.6
+	player.add_speed_boost()
 	get_tree().create_timer(GameConstants.PICKUP_DURATION).timeout.connect(
-		func(): player.speed_multiplier = original
+		func(): player.remove_speed_boost()
 	)
 
 func _apply_bomb() -> void:
