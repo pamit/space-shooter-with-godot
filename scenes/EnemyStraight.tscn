@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/enemy_straight.gd" id="1"]
+
+[node name="EnemyStraight" type="Area2D" groups=["enemy"]]
+script = ExtResource("1")
+base_speed = 100.0
+hp = 20.0
+collision_layer = 8
+collision_mask = 4
+
+[node name="Shape" type="CollisionShape2D" parent="."]
+
+[node name="Visual" type="Polygon2D" parent="."]
+polygon = PackedVector2Array(0, 20, -20, -15, 20, -15)
+color = Color(0.8, 0.2, 0.2, 1)
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]

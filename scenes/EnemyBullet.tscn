@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/bullet.gd" id="1"]
+
+[node name="EnemyBullet" type="Area2D" groups=["enemy_bullet"]]
+script = ExtResource("1")
+speed = 350.0
+damage = 20.0
+collision_layer = 8
+collision_mask = 2
+
+[node name="Shape" type="CollisionShape2D" parent="."]
+
+[node name="Visual" type="Polygon2D" parent="."]
+polygon = PackedVector2Array(-3, -8, 3, -8, 3, 8, -3, 8)
+color = Color(1, 0.3, 0.3, 1)
