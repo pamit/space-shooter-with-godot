@@ -24,5 +24,7 @@ static func load_from(path: String) -> Dictionary:
 
 static func save_to(path: String, data: Dictionary) -> void:
 	var file := FileAccess.open(path, FileAccess.WRITE)
+	if file == null:
+		return
 	file.store_string(JSON.stringify(data))
 	file.close()
