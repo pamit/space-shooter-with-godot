@@ -18,7 +18,7 @@ static func boss_bullet_count_for_level(level: int) -> int:
 	return int(C.BOSS_BULLET_COUNT_BASE + level * C.BOSS_BULLET_COUNT_PER_LEVEL)
 
 static func boss_fire_interval_for_level(level: int) -> float:
-	var interval := C.BOSS_FIRE_INTERVAL_BASE - (level - 1) * 0.05
+	var interval := C.BOSS_FIRE_INTERVAL_BASE - (level - 1) * C.BOSS_FIRE_INTERVAL_DECAY
 	return max(interval, C.BOSS_FIRE_INTERVAL_MIN)
 
 static func is_boss_level(level: int) -> bool:
