@@ -18,6 +18,9 @@ var _weapon_boost_count: int = 0
 var _speed_boost_count: int = 0
 var _shield_count: int = 0
 
+@onready var fire_sfx: AudioStreamPlayer2D = $FireSFX
+@onready var hit_sfx: AudioStreamPlayer2D = $HitSFX
+
 func _ready() -> void:
 	add_to_group("player")
 	GameManager.start_run()
@@ -52,6 +55,8 @@ func _fire() -> void:
 	bullet.direction = Vector2.UP
 	get_parent().add_child(bullet)
 	bullet.global_position = global_position + Vector2(0, -30)
+	if fire_sfx.stream != null:
+		fire_sfx.play()
 
 func apply_shield(active: bool) -> void:
 	_shield_active = active
@@ -88,6 +93,8 @@ func take_damage(amount: float) -> void:
 		return
 	GameManager.damage_player(amount)
 	hit.emit(amount)
+	if hit_sfx.stream != null:
+		hit_sfx.play()
 
 func _on_area_entered(area: Node) -> void:
 	if area.is_in_group("enemy_bullet") or area.is_in_group("enemy"):

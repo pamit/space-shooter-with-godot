@@ -13,4 +13,6 @@ collision_mask = 2
 polygon = PackedVector2Array(-12, -12, 12, -12, 12, 12, -12, 12)
 color = Color(0.2, 1, 0.4, 1)
 
+[node name="PickupSFX" type="AudioStreamPlayer2D" parent="."]
+
 [connection signal="area_entered" from="." to="." method="_on_area_entered"]

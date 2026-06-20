@@ -4,6 +4,8 @@ extends Area2D
 @export var kind: String = "weapon"
 @export var fall_speed: float = 120.0
 
+@onready var pickup_sfx: AudioStreamPlayer2D = $PickupSFX
+
 func _ready() -> void:
 	add_to_group("pickup")
 
@@ -24,6 +26,9 @@ func _on_area_entered(area: Node) -> void:
 			_apply_speed(area)
 		"bomb":
 			_apply_bomb()
+	if pickup_sfx.stream != null:
+		pickup_sfx.play()
+		await get_tree().create_timer(0.2).timeout
 	queue_free()
 
 func _apply_weapon_boost(player: Node) -> void:

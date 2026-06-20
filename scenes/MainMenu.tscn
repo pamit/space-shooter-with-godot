@@ -28,5 +28,8 @@ offset_left = 300.0
 offset_top = 480.0
 text = "Mute"
 
+[node name="MusicPlayer" type="AudioStreamPlayer" parent="."]
+autoplay = true
+
 [connection signal="pressed" from="PlayButton" to="." method="_on_play_pressed"]
 [connection signal="toggled" from="MuteButton" to="." method="_on_mute_toggled"]

@@ -17,4 +17,6 @@ collision_mask = 4
 polygon = PackedVector2Array(0, 22, -22, -10, 0, -22, 22, -10)
 color = Color(0.6, 0.1, 0.7, 1)
 
+[node name="ExplosionSFX" type="AudioStreamPlayer2D" parent="."]
+
 [connection signal="area_entered" from="." to="." method="_on_area_entered"]

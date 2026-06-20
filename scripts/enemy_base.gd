@@ -9,6 +9,8 @@ signal died
 
 var _speed: float = 100.0
 
+@onready var explosion_sfx: AudioStreamPlayer2D = $ExplosionSFX
+
 func _ready() -> void:
 	add_to_group("enemy")
 
@@ -20,6 +22,9 @@ func take_damage(amount: float) -> void:
 	if hp <= 0.0:
 		died.emit()
 		GameManager.add_kill()
+		if explosion_sfx.stream != null:
+			explosion_sfx.play()
+			await get_tree().create_timer(0.3).timeout
 		queue_free()
 
 func _physics_process(_delta: float) -> void:
