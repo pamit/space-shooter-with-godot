@@ -1,0 +1,4461 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "final-review-fix-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report",
+      "community": 6,
+      "norm_label": "final-review-fix-report.md"
+    },
+    {
+      "label": "Final Review Fix Report \u2014 feature/mvp",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp",
+      "community": 6,
+      "norm_label": "final review fix report \u2014 feature/mvp"
+    },
+    {
+      "label": "Finding 1 (Critical) \u2014 Player-enemy contact bypasses death contract",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_finding_1_critical_player_enemy_contact_bypasses_death_contract",
+      "community": 6,
+      "norm_label": "finding 1 (critical) \u2014 player-enemy contact bypasses death contract"
+    },
+    {
+      "label": "Finding 2 (Minor) \u2014 dead code cleanup",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_finding_2_minor_dead_code_cleanup",
+      "community": 6,
+      "norm_label": "finding 2 (minor) \u2014 dead code cleanup"
+    },
+    {
+      "label": "Finding 3 (Minor) \u2014 extract remaining balance magic numbers",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L56",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_finding_3_minor_extract_remaining_balance_magic_numbers",
+      "community": 6,
+      "norm_label": "finding 3 (minor) \u2014 extract remaining balance magic numbers"
+    },
+    {
+      "label": "Finding 4 (Important) \u2014 missing test assertions",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L88",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_finding_4_important_missing_test_assertions",
+      "community": 6,
+      "norm_label": "finding 4 (important) \u2014 missing test assertions"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L106",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_verification",
+      "community": 6,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Test suite",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L108",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_test_suite",
+      "community": 6,
+      "norm_label": "test suite"
+    },
+    {
+      "label": "Scene smoke test",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L144",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_scene_smoke_test",
+      "community": 6,
+      "norm_label": "scene smoke test"
+    },
+    {
+      "label": "Script parse checks",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L155",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_script_parse_checks",
+      "community": 6,
+      "norm_label": "script parse checks"
+    },
+    {
+      "label": "Files changed",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L188",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_files_changed",
+      "community": 6,
+      "norm_label": "files changed"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L196",
+      "_origin": "ast",
+      "id": "sdd_final_review_fix_report_commit",
+      "community": 6,
+      "norm_label": "commit"
+    },
+    {
+      "label": "progress.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/progress.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_progress",
+      "community": 30,
+      "norm_label": "progress.md"
+    },
+    {
+      "label": "task-1-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-1-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_1_brief",
+      "community": 21,
+      "norm_label": "task-1-brief.md"
+    },
+    {
+      "label": "Task 1: Project scaffold + balance constants",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-1-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_1_brief_task_1_project_scaffold_balance_constants",
+      "community": 21,
+      "norm_label": "task 1: project scaffold + balance constants"
+    },
+    {
+      "label": "task-1-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_1_report",
+      "community": 15,
+      "norm_label": "task-1-report.md"
+    },
+    {
+      "label": "Task 1 Report: Project scaffold + balance constants",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_1_report_task_1_report_project_scaffold_balance_constants",
+      "community": 15,
+      "norm_label": "task 1 report: project scaffold + balance constants"
+    },
+    {
+      "label": "What was done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_1_report_what_was_done",
+      "community": 15,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "Verification command and output",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "sdd_task_1_report_verification_command_and_output",
+      "community": 15,
+      "norm_label": "verification command and output"
+    },
+    {
+      "label": "Commit created",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L57",
+      "_origin": "ast",
+      "id": "sdd_task_1_report_commit_created",
+      "community": 15,
+      "norm_label": "commit created"
+    },
+    {
+      "label": "Concerns",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L67",
+      "_origin": "ast",
+      "id": "sdd_task_1_report_concerns",
+      "community": 15,
+      "norm_label": "concerns"
+    },
+    {
+      "label": "task-10-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-10-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_10_brief",
+      "community": 18,
+      "norm_label": "task-10-brief.md"
+    },
+    {
+      "label": "Task 10: Wave spawner \u2014 drives procedural waves + pickup drops",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-10-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_10_brief_task_10_wave_spawner_drives_procedural_waves_pickup_drops",
+      "community": 18,
+      "norm_label": "task 10: wave spawner \u2014 drives procedural waves + pickup drops"
+    },
+    {
+      "label": "task-10-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_10_report",
+      "community": 14,
+      "norm_label": "task-10-report.md"
+    },
+    {
+      "label": "Task 10 Report: Wave spawner",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_10_report_task_10_report_wave_spawner",
+      "community": 14,
+      "norm_label": "task 10 report: wave spawner"
+    },
+    {
+      "label": "What was done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_10_report_what_was_done",
+      "community": 14,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "sdd_task_10_report_verification",
+      "community": 14,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "sdd_task_10_report_commit",
+      "community": 14,
+      "norm_label": "commit"
+    },
+    {
+      "label": "Concerns",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L48",
+      "_origin": "ast",
+      "id": "sdd_task_10_report_concerns",
+      "community": 14,
+      "norm_label": "concerns"
+    },
+    {
+      "label": "task-11-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_11_brief",
+      "community": 19,
+      "norm_label": "task-11-brief.md"
+    },
+    {
+      "label": "Task 11: Parallax starfield background",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_11_brief_task_11_parallax_starfield_background",
+      "community": 19,
+      "norm_label": "task 11: parallax starfield background"
+    },
+    {
+      "label": "task-11-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_11_report",
+      "community": 12,
+      "norm_label": "task-11-report.md"
+    },
+    {
+      "label": "Task 11 Implementation Report",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_11_report_task_11_implementation_report",
+      "community": 12,
+      "norm_label": "task 11 implementation report"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_11_report_summary",
+      "community": 12,
+      "norm_label": "summary"
+    },
+    {
+      "label": "What Was Done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "sdd_task_11_report_what_was_done",
+      "community": 12,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "sdd_task_11_report_verification",
+      "community": 12,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Technical Notes",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "sdd_task_11_report_technical_notes",
+      "community": 12,
+      "norm_label": "technical notes"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "sdd_task_11_report_commit",
+      "community": 12,
+      "norm_label": "commit"
+    },
+    {
+      "label": "task-12-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_12_brief",
+      "community": 20,
+      "norm_label": "task-12-brief.md"
+    },
+    {
+      "label": "Task 12: HUD, Main Menu, and Main scene wiring",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_12_brief_task_12_hud_main_menu_and_main_scene_wiring",
+      "community": 20,
+      "norm_label": "task 12: hud, main menu, and main scene wiring"
+    },
+    {
+      "label": "task-12-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_12_report",
+      "community": 9,
+      "norm_label": "task-12-report.md"
+    },
+    {
+      "label": "Task 12 Report: HUD, Main Menu, and Main scene wiring",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "community": 9,
+      "norm_label": "task 12 report: hud, main menu, and main scene wiring"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_summary",
+      "community": 9,
+      "norm_label": "summary"
+    },
+    {
+      "label": "Pre-implementation cross-check (per instructions)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_pre_implementation_cross_check_per_instructions",
+      "community": 9,
+      "norm_label": "pre-implementation cross-check (per instructions)"
+    },
+    {
+      "label": "Files written",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_files_written",
+      "community": 9,
+      "norm_label": "files written"
+    },
+    {
+      "label": "Verification \u2014 Step 5 (script parse check)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L47",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_verification_step_5_script_parse_check",
+      "community": 9,
+      "norm_label": "verification \u2014 step 5 (script parse check)"
+    },
+    {
+      "label": "Verification \u2014 Step 6 substitute (headless scene run, no display available)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L85",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_verification_step_6_substitute_headless_scene_run_no_display_available",
+      "community": 9,
+      "norm_label": "verification \u2014 step 6 substitute (headless scene run, no display available)"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L121",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_commit",
+      "community": 9,
+      "norm_label": "commit"
+    },
+    {
+      "label": "Concerns",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L141",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_concerns",
+      "community": 9,
+      "norm_label": "concerns"
+    },
+    {
+      "label": "Code Review Fix: GameOverPanel process_mode",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L149",
+      "_origin": "ast",
+      "id": "sdd_task_12_report_code_review_fix_gameoverpanel_process_mode",
+      "community": 9,
+      "norm_label": "code review fix: gameoverpanel process_mode"
+    },
+    {
+      "label": "task-13-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_13_brief",
+      "community": 16,
+      "norm_label": "task-13-brief.md"
+    },
+    {
+      "label": "Task 13: Audio hooks (structural \u2014 no bundled files)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_13_brief_task_13_audio_hooks_structural_no_bundled_files",
+      "community": 16,
+      "norm_label": "task 13: audio hooks (structural \u2014 no bundled files)"
+    },
+    {
+      "label": "Follow-ups (explicitly out of scope for this plan)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-brief.md",
+      "source_location": "L110",
+      "_origin": "ast",
+      "id": "sdd_task_13_brief_follow_ups_explicitly_out_of_scope_for_this_plan",
+      "community": 16,
+      "norm_label": "follow-ups (explicitly out of scope for this plan)"
+    },
+    {
+      "label": "task-13-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_13_report",
+      "community": 3,
+      "norm_label": "task-13-report.md"
+    },
+    {
+      "label": "Task 13 Report: Audio hooks (structural \u2014 no bundled files)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_task_13_report_audio_hooks_structural_no_bundled_files",
+      "community": 3,
+      "norm_label": "task 13 report: audio hooks (structural \u2014 no bundled files)"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_summary",
+      "community": 3,
+      "norm_label": "summary"
+    },
+    {
+      "label": "What was done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_what_was_done",
+      "community": 3,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "scripts/player.gd",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_scripts_player_gd",
+      "community": 3,
+      "norm_label": "scripts/player.gd"
+    },
+    {
+      "label": "scripts/enemy_base.gd",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_scripts_enemy_base_gd",
+      "community": 3,
+      "norm_label": "scripts/enemy_base.gd"
+    },
+    {
+      "label": "scripts/boss.gd",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_scripts_boss_gd",
+      "community": 3,
+      "norm_label": "scripts/boss.gd"
+    },
+    {
+      "label": "scripts/pickup.gd",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_scripts_pickup_gd",
+      "community": 3,
+      "norm_label": "scripts/pickup.gd"
+    },
+    {
+      "label": "Scene files \u2014 new child nodes added (stream left empty)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_scene_files_new_child_nodes_added_stream_left_empty",
+      "community": 3,
+      "norm_label": "scene files \u2014 new child nodes added (stream left empty)"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_verification",
+      "community": 3,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Step 6 \u2014 check-only loop (brief's exact command)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L37",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_step_6_check_only_loop_brief_s_exact_command",
+      "community": 3,
+      "norm_label": "step 6 \u2014 check-only loop (brief's exact command)"
+    },
+    {
+      "label": "Headless smoke tests",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L81",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_headless_smoke_tests",
+      "community": 3,
+      "norm_label": "headless smoke tests"
+    },
+    {
+      "label": "Git diff scope check",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L105",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_git_diff_scope_check",
+      "community": 3,
+      "norm_label": "git diff scope check"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L125",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_commit",
+      "community": 3,
+      "norm_label": "commit"
+    },
+    {
+      "label": "Concerns",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L134",
+      "_origin": "ast",
+      "id": "sdd_task_13_report_concerns",
+      "community": 3,
+      "norm_label": "concerns"
+    },
+    {
+      "label": "task-2-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_2_brief",
+      "community": 22,
+      "norm_label": "task-2-brief.md"
+    },
+    {
+      "label": "Task 2: Difficulty formulas (pure, tested)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_2_brief_task_2_difficulty_formulas_pure_tested",
+      "community": 22,
+      "norm_label": "task 2: difficulty formulas (pure, tested)"
+    },
+    {
+      "label": "task-2-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_2_report",
+      "community": 0,
+      "norm_label": "task-2-report.md"
+    },
+    {
+      "label": "Task 2 Report: Difficulty formulas (pure, tested)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "community": 0,
+      "norm_label": "task 2 report: difficulty formulas (pure, tested)"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_summary",
+      "community": 0,
+      "norm_label": "summary"
+    },
+    {
+      "label": "Files Created",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_files_created",
+      "community": 0,
+      "norm_label": "files created"
+    },
+    {
+      "label": "Implementation Details",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_implementation_details",
+      "community": 0,
+      "norm_label": "implementation details"
+    },
+    {
+      "label": "Key Decision",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_key_decision",
+      "community": 0,
+      "norm_label": "key decision"
+    },
+    {
+      "label": "Difficulty.gd Implementation",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_difficulty_gd_implementation",
+      "community": 0,
+      "norm_label": "difficulty.gd implementation"
+    },
+    {
+      "label": "Test Execution",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_test_execution",
+      "community": 0,
+      "norm_label": "test execution"
+    },
+    {
+      "label": "Failing Test Run (Before Implementation)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_failing_test_run_before_implementation",
+      "community": 0,
+      "norm_label": "failing test run (before implementation)"
+    },
+    {
+      "label": "Passing Test Run (After Implementation)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L37",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_passing_test_run_after_implementation",
+      "community": 0,
+      "norm_label": "passing test run (after implementation)"
+    },
+    {
+      "label": "Test Assertions Verified",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L59",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_test_assertions_verified",
+      "community": 0,
+      "norm_label": "test assertions verified"
+    },
+    {
+      "label": "Git Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L69",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_git_commit",
+      "community": 0,
+      "norm_label": "git commit"
+    },
+    {
+      "label": "Concerns",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L79",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_concerns",
+      "community": 0,
+      "norm_label": "concerns"
+    },
+    {
+      "label": "Task Completion",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L82",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_task_completion",
+      "community": 0,
+      "norm_label": "task completion"
+    },
+    {
+      "label": "Code Review Fix: Extract boss_fire_interval_decay to GameConstants",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L93",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_code_review_fix_extract_boss_fire_interval_decay_to_gameconstants",
+      "community": 0,
+      "norm_label": "code review fix: extract boss_fire_interval_decay to gameconstants"
+    },
+    {
+      "label": "Issue",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L95",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_issue",
+      "community": 0,
+      "norm_label": "issue"
+    },
+    {
+      "label": "Changes Made",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L98",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_changes_made",
+      "community": 0,
+      "norm_label": "changes made"
+    },
+    {
+      "label": "Test Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L114",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_test_verification",
+      "community": 0,
+      "norm_label": "test verification"
+    },
+    {
+      "label": "Git Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L122",
+      "_origin": "ast",
+      "id": "sdd_task_2_report_git_commit_122",
+      "community": 0,
+      "norm_label": "git commit"
+    },
+    {
+      "label": "task-3-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_3_brief",
+      "community": 23,
+      "norm_label": "task-3-brief.md"
+    },
+    {
+      "label": "Task 3: Save data (pure JSON read/write, tested)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_3_brief_task_3_save_data_pure_json_read_write_tested",
+      "community": 23,
+      "norm_label": "task 3: save data (pure json read/write, tested)"
+    },
+    {
+      "label": "task-3-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_3_report",
+      "community": 10,
+      "norm_label": "task-3-report.md"
+    },
+    {
+      "label": "Task 3 Report: Save Data (Pure JSON Read/Write, Tested)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_task_3_report_save_data_pure_json_read_write_tested",
+      "community": 10,
+      "norm_label": "task 3 report: save data (pure json read/write, tested)"
+    },
+    {
+      "label": "What Was Done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_what_was_done",
+      "community": 10,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "Test Results",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_test_results",
+      "community": 10,
+      "norm_label": "test results"
+    },
+    {
+      "label": "Step 2: Initial Failing Test",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_step_2_initial_failing_test",
+      "community": 10,
+      "norm_label": "step 2: initial failing test"
+    },
+    {
+      "label": "Step 4: Passing Test",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_step_4_passing_test",
+      "community": 10,
+      "norm_label": "step 4: passing test"
+    },
+    {
+      "label": "Commit Details",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L55",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_commit_details",
+      "community": 10,
+      "norm_label": "commit details"
+    },
+    {
+      "label": "Code Review",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L73",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_code_review",
+      "community": 10,
+      "norm_label": "code review"
+    },
+    {
+      "label": "Status",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L80",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_status",
+      "community": 10,
+      "norm_label": "status"
+    },
+    {
+      "label": "Code Review Fix: Guard save_to() Against Null FileAccess",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L86",
+      "_origin": "ast",
+      "id": "sdd_task_3_report_code_review_fix_guard_save_to_against_null_fileaccess",
+      "community": 10,
+      "norm_label": "code review fix: guard save_to() against null fileaccess"
+    },
+    {
+      "label": "task-4-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_4_brief",
+      "community": 24,
+      "norm_label": "task-4-brief.md"
+    },
+    {
+      "label": "Task 4: Wave pool \u2014 procedural enemy selection (pure, tested)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_4_brief_task_4_wave_pool_procedural_enemy_selection_pure_tested",
+      "community": 24,
+      "norm_label": "task 4: wave pool \u2014 procedural enemy selection (pure, tested)"
+    },
+    {
+      "label": "task-4-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_4_report",
+      "community": 7,
+      "norm_label": "task-4-report.md"
+    },
+    {
+      "label": "Task 4 Report: Wave Pool Implementation",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_task_4_report_wave_pool_implementation",
+      "community": 7,
+      "norm_label": "task 4 report: wave pool implementation"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_summary",
+      "community": 7,
+      "norm_label": "summary"
+    },
+    {
+      "label": "What Was Done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_what_was_done",
+      "community": 7,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "Step 1: Write Failing Test",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_step_1_write_failing_test",
+      "community": 7,
+      "norm_label": "step 1: write failing test"
+    },
+    {
+      "label": "Step 2: Verify Test Fails",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_step_2_verify_test_fails",
+      "community": 7,
+      "norm_label": "step 2: verify test fails"
+    },
+    {
+      "label": "Step 3: Write Implementation",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_step_3_write_implementation",
+      "community": 7,
+      "norm_label": "step 3: write implementation"
+    },
+    {
+      "label": "Step 4: Verify Test Passes",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_step_4_verify_test_passes",
+      "community": 7,
+      "norm_label": "step 4: verify test passes"
+    },
+    {
+      "label": "Step 5: Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L50",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_step_5_commit",
+      "community": 7,
+      "norm_label": "step 5: commit"
+    },
+    {
+      "label": "Files Created",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L67",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_files_created",
+      "community": 7,
+      "norm_label": "files created"
+    },
+    {
+      "label": "Dependencies & Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L71",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_dependencies_verification",
+      "community": 7,
+      "norm_label": "dependencies & verification"
+    },
+    {
+      "label": "Concerns",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L77",
+      "_origin": "ast",
+      "id": "sdd_task_4_report_concerns",
+      "community": 7,
+      "norm_label": "concerns"
+    },
+    {
+      "label": "task-5-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_5_brief",
+      "community": 25,
+      "norm_label": "task-5-brief.md"
+    },
+    {
+      "label": "Task 5: GameManager + SaveManager autoload singletons (tested)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_5_brief_task_5_gamemanager_savemanager_autoload_singletons_tested",
+      "community": 25,
+      "norm_label": "task 5: gamemanager + savemanager autoload singletons (tested)"
+    },
+    {
+      "label": "task-5-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_5_report",
+      "community": 13,
+      "norm_label": "task-5-report.md"
+    },
+    {
+      "label": "Task 5 Report: GameManager + SaveManager autoload singletons",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_5_report_task_5_report_gamemanager_savemanager_autoload_singletons",
+      "community": 13,
+      "norm_label": "task 5 report: gamemanager + savemanager autoload singletons"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_5_report_summary",
+      "community": 13,
+      "norm_label": "summary"
+    },
+    {
+      "label": "Steps taken",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "sdd_task_5_report_steps_taken",
+      "community": 13,
+      "norm_label": "steps taken"
+    },
+    {
+      "label": "Test commands and output",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "sdd_task_5_report_test_commands_and_output",
+      "community": 13,
+      "norm_label": "test commands and output"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L83",
+      "_origin": "ast",
+      "id": "sdd_task_5_report_commit",
+      "community": 13,
+      "norm_label": "commit"
+    },
+    {
+      "label": "Concerns",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L101",
+      "_origin": "ast",
+      "id": "sdd_task_5_report_concerns",
+      "community": 13,
+      "norm_label": "concerns"
+    },
+    {
+      "label": "task-6-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_6_brief",
+      "community": 26,
+      "norm_label": "task-6-brief.md"
+    },
+    {
+      "label": "Task 6: Player scene \u2014 touch-drag movement, HP, auto-fire",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_6_brief_task_6_player_scene_touch_drag_movement_hp_auto_fire",
+      "community": 26,
+      "norm_label": "task 6: player scene \u2014 touch-drag movement, hp, auto-fire"
+    },
+    {
+      "label": "task-6-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_6_report",
+      "community": 5,
+      "norm_label": "task-6-report.md"
+    },
+    {
+      "label": "Task 6 Report: Player scene \u2014 touch-drag movement, HP, auto-fire",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_task_6_report_player_scene_touch_drag_movement_hp_auto_fire",
+      "community": 5,
+      "norm_label": "task 6 report: player scene \u2014 touch-drag movement, hp, auto-fire"
+    },
+    {
+      "label": "What was done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_what_was_done",
+      "community": 5,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_verification",
+      "community": 5,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Brief's literal Step 5 command",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_brief_s_literal_step_5_command",
+      "community": 5,
+      "norm_label": "brief's literal step 5 command"
+    },
+    {
+      "label": "Additional verification performed (beyond the brief, for confidence \u2014 not committed)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L59",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_additional_verification_performed_beyond_the_brief_for_confidence_not_committed",
+      "community": 5,
+      "norm_label": "additional verification performed (beyond the brief, for confidence \u2014 not committed)"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L85",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_commit",
+      "community": 5,
+      "norm_label": "commit"
+    },
+    {
+      "label": "Concerns / notes for the controller",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L99",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_concerns_notes_for_the_controller",
+      "community": 5,
+      "norm_label": "concerns / notes for the controller"
+    },
+    {
+      "label": "Code Review Fixes",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L131",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_code_review_fixes",
+      "community": 5,
+      "norm_label": "code review fixes"
+    },
+    {
+      "label": "Finding 1 (dead code): Remove `or true` condition in `_input(event)`",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L133",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_finding_1_dead_code_remove_or_true_condition_in_input_event",
+      "community": 5,
+      "norm_label": "finding 1 (dead code): remove `or true` condition in `_input(event)`"
+    },
+    {
+      "label": "Finding 2 (magic number): Extract hardcoded `20.0` contact damage to constant",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L142",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_finding_2_magic_number_extract_hardcoded_20_0_contact_damage_to_constant",
+      "community": 5,
+      "norm_label": "finding 2 (magic number): extract hardcoded `20.0` contact damage to constant"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L149",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_verification_149",
+      "community": 5,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L160",
+      "_origin": "ast",
+      "id": "sdd_task_6_report_commit_160",
+      "community": 5,
+      "norm_label": "commit"
+    },
+    {
+      "label": "task-7-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_7_brief",
+      "community": 27,
+      "norm_label": "task-7-brief.md"
+    },
+    {
+      "label": "Task 7: Enemy base + 3 movement-pattern types",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_7_brief_task_7_enemy_base_3_movement_pattern_types",
+      "community": 27,
+      "norm_label": "task 7: enemy base + 3 movement-pattern types"
+    },
+    {
+      "label": "task-7-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_7_report",
+      "community": 11,
+      "norm_label": "task-7-report.md"
+    },
+    {
+      "label": "Task 7 Report: Enemy base + 3 movement-pattern types",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_7_report_task_7_report_enemy_base_3_movement_pattern_types",
+      "community": 11,
+      "norm_label": "task 7 report: enemy base + 3 movement-pattern types"
+    },
+    {
+      "label": "Status: DONE_WITH_CONCERNS",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_7_report_status_done_with_concerns",
+      "community": 11,
+      "norm_label": "status: done_with_concerns"
+    },
+    {
+      "label": "What was done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "sdd_task_7_report_what_was_done",
+      "community": 11,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "Collision fix applied (per instructions, deviates from brief's literal text)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "sdd_task_7_report_collision_fix_applied_per_instructions_deviates_from_brief_s_literal_text",
+      "community": 11,
+      "norm_label": "collision fix applied (per instructions, deviates from brief's literal text)"
+    },
+    {
+      "label": "Verification \u2014 Step 5 (script parse check)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "sdd_task_7_report_verification_step_5_script_parse_check",
+      "community": 11,
+      "norm_label": "verification \u2014 step 5 (script parse check)"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L81",
+      "_origin": "ast",
+      "id": "sdd_task_7_report_commit",
+      "community": 11,
+      "norm_label": "commit"
+    },
+    {
+      "label": "Concerns / flags",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L96",
+      "_origin": "ast",
+      "id": "sdd_task_7_report_concerns_flags",
+      "community": 11,
+      "norm_label": "concerns / flags"
+    },
+    {
+      "label": "task-8-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_8_brief",
+      "community": 28,
+      "norm_label": "task-8-brief.md"
+    },
+    {
+      "label": "Task 8: Boss scene \u2014 scaling single attack pattern",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_8_brief_task_8_boss_scene_scaling_single_attack_pattern",
+      "community": 28,
+      "norm_label": "task 8: boss scene \u2014 scaling single attack pattern"
+    },
+    {
+      "label": "task-8-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_8_report",
+      "community": 8,
+      "norm_label": "task-8-report.md"
+    },
+    {
+      "label": "Task 8: Boss Scene \u2014 Scaling Single Attack Pattern",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_task_8_boss_scene_scaling_single_attack_pattern",
+      "community": 8,
+      "norm_label": "task 8: boss scene \u2014 scaling single attack pattern"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_summary",
+      "community": 8,
+      "norm_label": "summary"
+    },
+    {
+      "label": "Files Created",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_files_created",
+      "community": 8,
+      "norm_label": "files created"
+    },
+    {
+      "label": "Implementation Details",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_implementation_details",
+      "community": 8,
+      "norm_label": "implementation details"
+    },
+    {
+      "label": "Script (scripts/boss.gd)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_script_scripts_boss_gd",
+      "community": 8,
+      "norm_label": "script (scripts/boss.gd)"
+    },
+    {
+      "label": "Scene (scenes/Boss.tscn)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_scene_scenes_boss_tscn",
+      "community": 8,
+      "norm_label": "scene (scenes/boss.tscn)"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_verification",
+      "community": 8,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Parse/Compile Check",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_parse_compile_check",
+      "community": 8,
+      "norm_label": "parse/compile check"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L38",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_commit",
+      "community": 8,
+      "norm_label": "commit"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "sdd_task_8_report_notes",
+      "community": 8,
+      "norm_label": "notes"
+    },
+    {
+      "label": "task-9-brief.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_9_brief",
+      "community": 29,
+      "norm_label": "task-9-brief.md"
+    },
+    {
+      "label": "Task 9: Pickups \u2014 weapon boost, shield, speed, bomb",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-brief.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_9_brief_task_9_pickups_weapon_boost_shield_speed_bomb",
+      "community": 29,
+      "norm_label": "task 9: pickups \u2014 weapon boost, shield, speed, bomb"
+    },
+    {
+      "label": "task-9-report.md",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_9_report",
+      "community": 4,
+      "norm_label": "task-9-report.md"
+    },
+    {
+      "label": "Task 9 Report: Pickups (weapon, shield, speed, bomb)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_task_9_report_pickups_weapon_shield_speed_bomb",
+      "community": 4,
+      "norm_label": "task 9 report: pickups (weapon, shield, speed, bomb)"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_summary",
+      "community": 4,
+      "norm_label": "summary"
+    },
+    {
+      "label": "What Was Done",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_what_was_done",
+      "community": 4,
+      "norm_label": "what was done"
+    },
+    {
+      "label": "Files Created",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_files_created",
+      "community": 4,
+      "norm_label": "files created"
+    },
+    {
+      "label": "Implementation Details",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_implementation_details",
+      "community": 4,
+      "norm_label": "implementation details"
+    },
+    {
+      "label": "Collision Layers (Verified)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_collision_layers_verified",
+      "community": 4,
+      "norm_label": "collision layers (verified)"
+    },
+    {
+      "label": "Script Features",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_script_features",
+      "community": 4,
+      "norm_label": "script features"
+    },
+    {
+      "label": "Type Safety Fix",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_type_safety_fix",
+      "community": 4,
+      "norm_label": "type safety fix"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L43",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_verification",
+      "community": 4,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Parse Check",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_parse_check",
+      "community": 4,
+      "norm_label": "parse check"
+    },
+    {
+      "label": "Commit",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L54",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_commit",
+      "community": 4,
+      "norm_label": "commit"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L64",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_notes",
+      "community": 4,
+      "norm_label": "notes"
+    },
+    {
+      "label": "Task 9: Fix pickup stacking corruption (snapshot/restore -> reference counting)",
+      "file_type": "document",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L71",
+      "_origin": "ast",
+      "id": "sdd_task_9_report_task_9_fix_pickup_stacking_corruption_snapshot_restore_reference_counting",
+      "community": 4,
+      "norm_label": "task 9: fix pickup stacking corruption (snapshot/restore -> reference counting)"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 17,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Space Shooter with Godot",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_space_shooter_with_godot",
+      "community": 17,
+      "norm_label": "space shooter with godot"
+    },
+    {
+      "label": "Refinements",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "readme_refinements",
+      "community": 17,
+      "norm_label": "refinements"
+    },
+    {
+      "label": "2026-06-20-space-shooter-mvp.md",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp",
+      "community": 1,
+      "norm_label": "2026-06-20-space-shooter-mvp.md"
+    },
+    {
+      "label": "Space Shooter MVP Implementation Plan",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_space_shooter_mvp_implementation_plan",
+      "community": 1,
+      "norm_label": "space shooter mvp implementation plan"
+    },
+    {
+      "label": "Global Constraints",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_global_constraints",
+      "community": 1,
+      "norm_label": "global constraints"
+    },
+    {
+      "label": "File Structure",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L32",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "community": 1,
+      "norm_label": "file structure"
+    },
+    {
+      "label": "Task 1: Project scaffold + balance constants",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L79",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_1_project_scaffold_balance_constants",
+      "community": 1,
+      "norm_label": "task 1: project scaffold + balance constants"
+    },
+    {
+      "label": "Task 2: Difficulty formulas (pure, tested)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L170",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_2_difficulty_formulas_pure_tested",
+      "community": 1,
+      "norm_label": "task 2: difficulty formulas (pure, tested)"
+    },
+    {
+      "label": "Task 3: Save data (pure JSON read/write, tested)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L259",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_3_save_data_pure_json_read_write_tested",
+      "community": 1,
+      "norm_label": "task 3: save data (pure json read/write, tested)"
+    },
+    {
+      "label": "Task 4: Wave pool \u2014 procedural enemy selection (pure, tested)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L361",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_4_wave_pool_procedural_enemy_selection_pure_tested",
+      "community": 1,
+      "norm_label": "task 4: wave pool \u2014 procedural enemy selection (pure, tested)"
+    },
+    {
+      "label": "Task 5: GameManager + SaveManager autoload singletons (tested)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L455",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_5_gamemanager_savemanager_autoload_singletons_tested",
+      "community": 1,
+      "norm_label": "task 5: gamemanager + savemanager autoload singletons (tested)"
+    },
+    {
+      "label": "Task 6: Player scene \u2014 touch-drag movement, HP, auto-fire",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L598",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_6_player_scene_touch_drag_movement_hp_auto_fire",
+      "community": 1,
+      "norm_label": "task 6: player scene \u2014 touch-drag movement, hp, auto-fire"
+    },
+    {
+      "label": "Task 7: Enemy base + 3 movement-pattern types",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L758",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_7_enemy_base_3_movement_pattern_types",
+      "community": 1,
+      "norm_label": "task 7: enemy base + 3 movement-pattern types"
+    },
+    {
+      "label": "Task 8: Boss scene \u2014 scaling single attack pattern",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L968",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_8_boss_scene_scaling_single_attack_pattern",
+      "community": 1,
+      "norm_label": "task 8: boss scene \u2014 scaling single attack pattern"
+    },
+    {
+      "label": "Task 9: Pickups \u2014 weapon boost, shield, speed, bomb",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1075",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_9_pickups_weapon_boost_shield_speed_bomb",
+      "community": 1,
+      "norm_label": "task 9: pickups \u2014 weapon boost, shield, speed, bomb"
+    },
+    {
+      "label": "Task 10: Wave spawner \u2014 drives procedural waves + pickup drops",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1182",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_10_wave_spawner_drives_procedural_waves_pickup_drops",
+      "community": 1,
+      "norm_label": "task 10: wave spawner \u2014 drives procedural waves + pickup drops"
+    },
+    {
+      "label": "Task 11: Parallax starfield background",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1283",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_11_parallax_starfield_background",
+      "community": 1,
+      "norm_label": "task 11: parallax starfield background"
+    },
+    {
+      "label": "Task 12: HUD, Main Menu, and Main scene wiring",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1345",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_12_hud_main_menu_and_main_scene_wiring",
+      "community": 1,
+      "norm_label": "task 12: hud, main menu, and main scene wiring"
+    },
+    {
+      "label": "Task 13: Audio hooks (structural \u2014 no bundled files)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1600",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_task_13_audio_hooks_structural_no_bundled_files",
+      "community": 1,
+      "norm_label": "task 13: audio hooks (structural \u2014 no bundled files)"
+    },
+    {
+      "label": "Follow-ups (explicitly out of scope for this plan)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1709",
+      "_origin": "ast",
+      "id": "plans_2026_06_20_space_shooter_mvp_follow_ups_explicitly_out_of_scope_for_this_plan",
+      "community": 1,
+      "norm_label": "follow-ups (explicitly out of scope for this plan)"
+    },
+    {
+      "label": "2026-06-21-ui-graphics-upgrade.md",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade",
+      "community": 2,
+      "norm_label": "2026-06-21-ui-graphics-upgrade.md"
+    },
+    {
+      "label": "UI and Graphics Upgrade Implementation Plan",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "community": 2,
+      "norm_label": "ui and graphics upgrade implementation plan"
+    },
+    {
+      "label": "Global Constraints (as shipped)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_global_constraints_as_shipped",
+      "community": 2,
+      "norm_label": "global constraints (as shipped)"
+    },
+    {
+      "label": "Visual Direction",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_visual_direction",
+      "community": 2,
+      "norm_label": "visual direction"
+    },
+    {
+      "label": "Approaches Considered",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L66",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_approaches_considered",
+      "community": 2,
+      "norm_label": "approaches considered"
+    },
+    {
+      "label": "A. Kenney-first (fastest)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L68",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_a_kenney_first_fastest",
+      "community": 2,
+      "norm_label": "a. kenney-first (fastest)"
+    },
+    {
+      "label": "B. Hybrid \u2014 Kenney gameplay + custom diegetic UI (recommended, **shipped**)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L74",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_b_hybrid_kenney_gameplay_custom_diegetic_ui_recommended_shipped",
+      "community": 2,
+      "norm_label": "b. hybrid \u2014 kenney gameplay + custom diegetic ui (recommended, **shipped**)"
+    },
+    {
+      "label": "C. Shader-heavy polish",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L80",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_c_shader_heavy_polish",
+      "community": 2,
+      "norm_label": "c. shader-heavy polish"
+    },
+    {
+      "label": "File Structure (as shipped)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L90",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_file_structure_as_shipped",
+      "community": 2,
+      "norm_label": "file structure (as shipped)"
+    },
+    {
+      "label": "Entity Visual Reference (current)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L152",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_entity_visual_reference_current",
+      "community": 2,
+      "norm_label": "entity visual reference (current)"
+    },
+    {
+      "label": "Pickup kinds (`pickup.gd`)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L164",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_pickup_kinds_pickup_gd",
+      "community": 2,
+      "norm_label": "pickup kinds (`pickup.gd`)"
+    },
+    {
+      "label": "HUD Layout (current)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L177",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_hud_layout_current",
+      "community": 2,
+      "norm_label": "hud layout (current)"
+    },
+    {
+      "label": "Level & Boss Flow (current)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L203",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_level_boss_flow_current",
+      "community": 2,
+      "norm_label": "level & boss flow (current)"
+    },
+    {
+      "label": "Task 1: Assets and theme foundation",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L215",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_task_1_assets_and_theme_foundation",
+      "community": 2,
+      "norm_label": "task 1: assets and theme foundation"
+    },
+    {
+      "label": "Task 2: Gameplay sprites",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L232",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_task_2_gameplay_sprites",
+      "community": 2,
+      "norm_label": "task 2: gameplay sprites"
+    },
+    {
+      "label": "Task 3: Background and parallax",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L247",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_task_3_background_and_parallax",
+      "community": 2,
+      "norm_label": "task 3: background and parallax"
+    },
+    {
+      "label": "Task 4: Diegetic HUD",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L258",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_task_4_diegetic_hud",
+      "community": 2,
+      "norm_label": "task 4: diegetic hud"
+    },
+    {
+      "label": "Task 5: Menus and game-over overlays",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L274",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_task_5_menus_and_game_over_overlays",
+      "community": 2,
+      "norm_label": "task 5: menus and game-over overlays"
+    },
+    {
+      "label": "Task 6: VFX polish",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L287",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_task_6_vfx_polish",
+      "community": 2,
+      "norm_label": "task 6: vfx polish"
+    },
+    {
+      "label": "Changelog (iterative updates after initial plan)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L303",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "community": 31,
+      "norm_label": "changelog (iterative updates after initial plan)"
+    },
+    {
+      "label": "Session 1 \u2014 Core visual upgrade",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L305",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_1_core_visual_upgrade",
+      "community": 31,
+      "norm_label": "session 1 \u2014 core visual upgrade"
+    },
+    {
+      "label": "Session 2 \u2014 Custom art & polish",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L310",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_2_custom_art_polish",
+      "community": 31,
+      "norm_label": "session 2 \u2014 custom art & polish"
+    },
+    {
+      "label": "Session 3 \u2014 Boss & progression",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L317",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_3_boss_progression",
+      "community": 31,
+      "norm_label": "session 3 \u2014 boss & progression"
+    },
+    {
+      "label": "Session 4 \u2014 Pickups, flow & HUD fixes",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L324",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_4_pickups_flow_hud_fixes",
+      "community": 31,
+      "norm_label": "session 4 \u2014 pickups, flow & hud fixes"
+    },
+    {
+      "label": "Session 5 \u2014 Wave length & boss shots",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L331",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_5_wave_length_boss_shots",
+      "community": 31,
+      "norm_label": "session 5 \u2014 wave length & boss shots"
+    },
+    {
+      "label": "Session 6 \u2014 Boss polish, zigzag VFX, HUD abilities",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L338",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_6_boss_polish_zigzag_vfx_hud_abilities",
+      "community": 31,
+      "norm_label": "session 6 \u2014 boss polish, zigzag vfx, hud abilities"
+    },
+    {
+      "label": "Session 7 \u2014 Wave size, rocket launch, HUD polish",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L346",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_7_wave_size_rocket_launch_hud_polish",
+      "community": 31,
+      "norm_label": "session 7 \u2014 wave size, rocket launch, hud polish"
+    },
+    {
+      "label": "Session 8 \u2014 Boss timing, hit glow, music, rockets",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L353",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_8_boss_timing_hit_glow_music_rockets",
+      "community": 31,
+      "norm_label": "session 8 \u2014 boss timing, hit glow, music, rockets"
+    },
+    {
+      "label": "Session 9 \u2014 Wave density, HUD polish, spawn cap, music revert",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L362",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_9_wave_density_hud_polish_spawn_cap_music_revert",
+      "community": 31,
+      "norm_label": "session 9 \u2014 wave density, hud polish, spawn cap, music revert"
+    },
+    {
+      "label": "Session 10 \u2014 Combat tuning, pickups, pause menu, HUD polish",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L370",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_10_combat_tuning_pickups_pause_menu_hud_polish",
+      "community": 31,
+      "norm_label": "session 10 \u2014 combat tuning, pickups, pause menu, hud polish"
+    },
+    {
+      "label": "Session 11 \u2014 Combat zone, pause UX, VFX, rockets, pickups",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L380",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_11_combat_zone_pause_ux_vfx_rockets_pickups",
+      "community": 31,
+      "norm_label": "session 11 \u2014 combat zone, pause ux, vfx, rockets, pickups"
+    },
+    {
+      "label": "Session 12 \u2014 Explosion VFX, game-over ship, meteorite barrier, rocket speeds",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L389",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_12_explosion_vfx_game_over_ship_meteorite_barrier_rocket_speeds",
+      "community": 31,
+      "norm_label": "session 12 \u2014 explosion vfx, game-over ship, meteorite barrier, rocket speeds"
+    },
+    {
+      "label": "Session 13 \u2014 Barriers, enemy speed, penta-shot, confirm dialog, player visual",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L395",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_13_barriers_enemy_speed_penta_shot_confirm_dialog_player_visual",
+      "community": 31,
+      "norm_label": "session 13 \u2014 barriers, enemy speed, penta-shot, confirm dialog, player visual"
+    },
+    {
+      "label": "Session 14 \u2014 Difficulty scaling, spawn pacing, penta/triple priority",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L402",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_14_difficulty_scaling_spawn_pacing_penta_triple_priority",
+      "community": 31,
+      "norm_label": "session 14 \u2014 difficulty scaling, spawn pacing, penta/triple priority"
+    },
+    {
+      "label": "Bug fixes (across sessions)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L408",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_bug_fixes_across_sessions",
+      "community": 31,
+      "norm_label": "bug fixes (across sessions)"
+    },
+    {
+      "label": "Testing and Success Criteria",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L419",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_testing_and_success_criteria",
+      "community": 2,
+      "norm_label": "testing and success criteria"
+    },
+    {
+      "label": "Out of Scope (still YAGNI)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L440",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_out_of_scope_still_yagni",
+      "community": 2,
+      "norm_label": "out of scope (still yagni)"
+    },
+    {
+      "label": "Kenney Asset Sources (CC0)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L451",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_kenney_asset_sources_cc0",
+      "community": 2,
+      "norm_label": "kenney asset sources (cc0)"
+    },
+    {
+      "label": "Third-Party Assets",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L457",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_third_party_assets",
+      "community": 2,
+      "norm_label": "third-party assets"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report",
+      "target": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L196",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp",
+      "target": "sdd_final_review_fix_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L188",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp",
+      "target": "sdd_final_review_fix_report_files_changed"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp",
+      "target": "sdd_final_review_fix_report_finding_1_critical_player_enemy_contact_bypasses_death_contract"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp",
+      "target": "sdd_final_review_fix_report_finding_2_minor_dead_code_cleanup"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp",
+      "target": "sdd_final_review_fix_report_finding_3_minor_extract_remaining_balance_magic_numbers"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L88",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp",
+      "target": "sdd_final_review_fix_report_finding_4_important_missing_test_assertions"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L106",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_final_review_fix_report_feature_mvp",
+      "target": "sdd_final_review_fix_report_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L144",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_verification",
+      "target": "sdd_final_review_fix_report_scene_smoke_test"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L155",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_verification",
+      "target": "sdd_final_review_fix_report_script_parse_checks"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/final-review-fix-report.md",
+      "source_location": "L108",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_final_review_fix_report_verification",
+      "target": "sdd_final_review_fix_report_test_suite"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-1-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_1_brief",
+      "target": "sdd_task_1_brief_task_1_project_scaffold_balance_constants"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_1_report",
+      "target": "sdd_task_1_report_task_1_report_project_scaffold_balance_constants"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_1_report_task_1_report_project_scaffold_balance_constants",
+      "target": "sdd_task_1_report_commit_created"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_1_report_task_1_report_project_scaffold_balance_constants",
+      "target": "sdd_task_1_report_concerns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_1_report_task_1_report_project_scaffold_balance_constants",
+      "target": "sdd_task_1_report_verification_command_and_output"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-1-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_1_report_task_1_report_project_scaffold_balance_constants",
+      "target": "sdd_task_1_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-10-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_10_brief",
+      "target": "sdd_task_10_brief_task_10_wave_spawner_drives_procedural_waves_pickup_drops"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_10_report",
+      "target": "sdd_task_10_report_task_10_report_wave_spawner"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_10_report_task_10_report_wave_spawner",
+      "target": "sdd_task_10_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_10_report_task_10_report_wave_spawner",
+      "target": "sdd_task_10_report_concerns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_10_report_task_10_report_wave_spawner",
+      "target": "sdd_task_10_report_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-10-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_10_report_task_10_report_wave_spawner",
+      "target": "sdd_task_10_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-11-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_11_brief",
+      "target": "sdd_task_11_brief_task_11_parallax_starfield_background"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_11_report",
+      "target": "sdd_task_11_report_task_11_implementation_report"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_11_report_task_11_implementation_report",
+      "target": "sdd_task_11_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_11_report_task_11_implementation_report",
+      "target": "sdd_task_11_report_summary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_11_report_task_11_implementation_report",
+      "target": "sdd_task_11_report_technical_notes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_11_report_task_11_implementation_report",
+      "target": "sdd_task_11_report_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-11-report.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_11_report_task_11_implementation_report",
+      "target": "sdd_task_11_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_brief",
+      "target": "sdd_task_12_brief_task_12_hud_main_menu_and_main_scene_wiring"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report",
+      "target": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L149",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "target": "sdd_task_12_report_code_review_fix_gameoverpanel_process_mode"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L121",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "target": "sdd_task_12_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L141",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "target": "sdd_task_12_report_concerns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "target": "sdd_task_12_report_files_written"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "target": "sdd_task_12_report_pre_implementation_cross_check_per_instructions"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "target": "sdd_task_12_report_summary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "target": "sdd_task_12_report_verification_step_5_script_parse_check"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-12-report.md",
+      "source_location": "L85",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_12_report_task_12_report_hud_main_menu_and_main_scene_wiring",
+      "target": "sdd_task_12_report_verification_step_6_substitute_headless_scene_run_no_display_available"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-brief.md",
+      "source_location": "L110",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_brief",
+      "target": "sdd_task_13_brief_follow_ups_explicitly_out_of_scope_for_this_plan"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_brief",
+      "target": "sdd_task_13_brief_task_13_audio_hooks_structural_no_bundled_files"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report",
+      "target": "sdd_task_13_report_task_13_report_audio_hooks_structural_no_bundled_files"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L125",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_task_13_report_audio_hooks_structural_no_bundled_files",
+      "target": "sdd_task_13_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_task_13_report_audio_hooks_structural_no_bundled_files",
+      "target": "sdd_task_13_report_concerns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_task_13_report_audio_hooks_structural_no_bundled_files",
+      "target": "sdd_task_13_report_summary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_task_13_report_audio_hooks_structural_no_bundled_files",
+      "target": "sdd_task_13_report_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_task_13_report_audio_hooks_structural_no_bundled_files",
+      "target": "sdd_task_13_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_what_was_done",
+      "target": "sdd_task_13_report_scene_files_new_child_nodes_added_stream_left_empty"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_what_was_done",
+      "target": "sdd_task_13_report_scripts_boss_gd"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_what_was_done",
+      "target": "sdd_task_13_report_scripts_enemy_base_gd"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_what_was_done",
+      "target": "sdd_task_13_report_scripts_pickup_gd"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_what_was_done",
+      "target": "sdd_task_13_report_scripts_player_gd"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L105",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_verification",
+      "target": "sdd_task_13_report_git_diff_scope_check"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L81",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_verification",
+      "target": "sdd_task_13_report_headless_smoke_tests"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-13-report.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_13_report_verification",
+      "target": "sdd_task_13_report_step_6_check_only_loop_brief_s_exact_command"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_brief",
+      "target": "sdd_task_2_brief_task_2_difficulty_formulas_pure_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report",
+      "target": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L93",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_code_review_fix_extract_boss_fire_interval_decay_to_gameconstants"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_concerns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_files_created"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_git_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_implementation_details"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_summary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L82",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_task_completion"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_test_assertions_verified"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_task_2_report_difficulty_formulas_pure_tested",
+      "target": "sdd_task_2_report_test_execution"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_implementation_details",
+      "target": "sdd_task_2_report_difficulty_gd_implementation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_implementation_details",
+      "target": "sdd_task_2_report_key_decision"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_test_execution",
+      "target": "sdd_task_2_report_failing_test_run_before_implementation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_test_execution",
+      "target": "sdd_task_2_report_passing_test_run_after_implementation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L98",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_code_review_fix_extract_boss_fire_interval_decay_to_gameconstants",
+      "target": "sdd_task_2_report_changes_made"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L122",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_code_review_fix_extract_boss_fire_interval_decay_to_gameconstants",
+      "target": "sdd_task_2_report_git_commit_122"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L95",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_code_review_fix_extract_boss_fire_interval_decay_to_gameconstants",
+      "target": "sdd_task_2_report_issue"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-2-report.md",
+      "source_location": "L114",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_2_report_code_review_fix_extract_boss_fire_interval_decay_to_gameconstants",
+      "target": "sdd_task_2_report_test_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_brief",
+      "target": "sdd_task_3_brief_task_3_save_data_pure_json_read_write_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report",
+      "target": "sdd_task_3_report_task_3_report_save_data_pure_json_read_write_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L73",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report_task_3_report_save_data_pure_json_read_write_tested",
+      "target": "sdd_task_3_report_code_review"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L86",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report_task_3_report_save_data_pure_json_read_write_tested",
+      "target": "sdd_task_3_report_code_review_fix_guard_save_to_against_null_fileaccess"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report_task_3_report_save_data_pure_json_read_write_tested",
+      "target": "sdd_task_3_report_commit_details"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L80",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report_task_3_report_save_data_pure_json_read_write_tested",
+      "target": "sdd_task_3_report_status"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report_task_3_report_save_data_pure_json_read_write_tested",
+      "target": "sdd_task_3_report_test_results"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report_task_3_report_save_data_pure_json_read_write_tested",
+      "target": "sdd_task_3_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report_test_results",
+      "target": "sdd_task_3_report_step_2_initial_failing_test"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-3-report.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_3_report_test_results",
+      "target": "sdd_task_3_report_step_4_passing_test"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_brief",
+      "target": "sdd_task_4_brief_task_4_wave_pool_procedural_enemy_selection_pure_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report",
+      "target": "sdd_task_4_report_task_4_report_wave_pool_implementation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L77",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_task_4_report_wave_pool_implementation",
+      "target": "sdd_task_4_report_concerns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_task_4_report_wave_pool_implementation",
+      "target": "sdd_task_4_report_dependencies_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_task_4_report_wave_pool_implementation",
+      "target": "sdd_task_4_report_files_created"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_task_4_report_wave_pool_implementation",
+      "target": "sdd_task_4_report_summary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_task_4_report_wave_pool_implementation",
+      "target": "sdd_task_4_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_what_was_done",
+      "target": "sdd_task_4_report_step_1_write_failing_test"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_what_was_done",
+      "target": "sdd_task_4_report_step_2_verify_test_fails"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_what_was_done",
+      "target": "sdd_task_4_report_step_3_write_implementation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_what_was_done",
+      "target": "sdd_task_4_report_step_4_verify_test_passes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-4-report.md",
+      "source_location": "L50",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_4_report_what_was_done",
+      "target": "sdd_task_4_report_step_5_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-5-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_5_brief",
+      "target": "sdd_task_5_brief_task_5_gamemanager_savemanager_autoload_singletons_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_5_report",
+      "target": "sdd_task_5_report_task_5_report_gamemanager_savemanager_autoload_singletons"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L83",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_5_report_task_5_report_gamemanager_savemanager_autoload_singletons",
+      "target": "sdd_task_5_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L101",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_5_report_task_5_report_gamemanager_savemanager_autoload_singletons",
+      "target": "sdd_task_5_report_concerns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_5_report_task_5_report_gamemanager_savemanager_autoload_singletons",
+      "target": "sdd_task_5_report_steps_taken"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_5_report_task_5_report_gamemanager_savemanager_autoload_singletons",
+      "target": "sdd_task_5_report_summary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-5-report.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_5_report_task_5_report_gamemanager_savemanager_autoload_singletons",
+      "target": "sdd_task_5_report_test_commands_and_output"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_brief",
+      "target": "sdd_task_6_brief_task_6_player_scene_touch_drag_movement_hp_auto_fire"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report",
+      "target": "sdd_task_6_report_task_6_report_player_scene_touch_drag_movement_hp_auto_fire"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L131",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_task_6_report_player_scene_touch_drag_movement_hp_auto_fire",
+      "target": "sdd_task_6_report_code_review_fixes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L85",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_task_6_report_player_scene_touch_drag_movement_hp_auto_fire",
+      "target": "sdd_task_6_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L99",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_task_6_report_player_scene_touch_drag_movement_hp_auto_fire",
+      "target": "sdd_task_6_report_concerns_notes_for_the_controller"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_task_6_report_player_scene_touch_drag_movement_hp_auto_fire",
+      "target": "sdd_task_6_report_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_task_6_report_player_scene_touch_drag_movement_hp_auto_fire",
+      "target": "sdd_task_6_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_verification",
+      "target": "sdd_task_6_report_additional_verification_performed_beyond_the_brief_for_confidence_not_committed"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_verification",
+      "target": "sdd_task_6_report_brief_s_literal_step_5_command"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L160",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_code_review_fixes",
+      "target": "sdd_task_6_report_commit_160"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L133",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_code_review_fixes",
+      "target": "sdd_task_6_report_finding_1_dead_code_remove_or_true_condition_in_input_event"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L142",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_code_review_fixes",
+      "target": "sdd_task_6_report_finding_2_magic_number_extract_hardcoded_20_0_contact_damage_to_constant"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-6-report.md",
+      "source_location": "L149",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_6_report_code_review_fixes",
+      "target": "sdd_task_6_report_verification_149"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-7-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_7_brief",
+      "target": "sdd_task_7_brief_task_7_enemy_base_3_movement_pattern_types"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_7_report",
+      "target": "sdd_task_7_report_task_7_report_enemy_base_3_movement_pattern_types"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_7_report_task_7_report_enemy_base_3_movement_pattern_types",
+      "target": "sdd_task_7_report_collision_fix_applied_per_instructions_deviates_from_brief_s_literal_text"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L81",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_7_report_task_7_report_enemy_base_3_movement_pattern_types",
+      "target": "sdd_task_7_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L96",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_7_report_task_7_report_enemy_base_3_movement_pattern_types",
+      "target": "sdd_task_7_report_concerns_flags"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_7_report_task_7_report_enemy_base_3_movement_pattern_types",
+      "target": "sdd_task_7_report_status_done_with_concerns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_7_report_task_7_report_enemy_base_3_movement_pattern_types",
+      "target": "sdd_task_7_report_verification_step_5_script_parse_check"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-7-report.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_7_report_task_7_report_enemy_base_3_movement_pattern_types",
+      "target": "sdd_task_7_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_brief",
+      "target": "sdd_task_8_brief_task_8_boss_scene_scaling_single_attack_pattern"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report",
+      "target": "sdd_task_8_report_task_8_boss_scene_scaling_single_attack_pattern"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_task_8_boss_scene_scaling_single_attack_pattern",
+      "target": "sdd_task_8_report_files_created"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_task_8_boss_scene_scaling_single_attack_pattern",
+      "target": "sdd_task_8_report_implementation_details"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_task_8_boss_scene_scaling_single_attack_pattern",
+      "target": "sdd_task_8_report_notes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_task_8_boss_scene_scaling_single_attack_pattern",
+      "target": "sdd_task_8_report_summary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_task_8_boss_scene_scaling_single_attack_pattern",
+      "target": "sdd_task_8_report_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_implementation_details",
+      "target": "sdd_task_8_report_scene_scenes_boss_tscn"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_implementation_details",
+      "target": "sdd_task_8_report_script_scripts_boss_gd"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_verification",
+      "target": "sdd_task_8_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-8-report.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_8_report_verification",
+      "target": "sdd_task_8_report_parse_compile_check"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_brief",
+      "target": "sdd_task_9_brief_task_9_pickups_weapon_boost_shield_speed_bomb"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report",
+      "target": "sdd_task_9_report_task_9_report_pickups_weapon_shield_speed_bomb"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_task_9_report_pickups_weapon_shield_speed_bomb",
+      "target": "sdd_task_9_report_commit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L64",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_task_9_report_pickups_weapon_shield_speed_bomb",
+      "target": "sdd_task_9_report_notes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_task_9_report_pickups_weapon_shield_speed_bomb",
+      "target": "sdd_task_9_report_summary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_task_9_report_pickups_weapon_shield_speed_bomb",
+      "target": "sdd_task_9_report_task_9_fix_pickup_stacking_corruption_snapshot_restore_reference_counting"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_task_9_report_pickups_weapon_shield_speed_bomb",
+      "target": "sdd_task_9_report_verification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_task_9_report_pickups_weapon_shield_speed_bomb",
+      "target": "sdd_task_9_report_what_was_done"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_what_was_done",
+      "target": "sdd_task_9_report_files_created"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_what_was_done",
+      "target": "sdd_task_9_report_implementation_details"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_implementation_details",
+      "target": "sdd_task_9_report_collision_layers_verified"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_implementation_details",
+      "target": "sdd_task_9_report_script_features"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_implementation_details",
+      "target": "sdd_task_9_report_type_safety_fix"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".superpowers/sdd/task-9-report.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdd_task_9_report_verification",
+      "target": "sdd_task_9_report_parse_check"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme",
+      "target": "readme_space_shooter_with_godot"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_space_shooter_with_godot",
+      "target": "readme_refinements"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp",
+      "target": "plans_2026_06_20_space_shooter_mvp_space_shooter_mvp_implementation_plan"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_space_shooter_mvp_implementation_plan",
+      "target": "plans_2026_06_20_space_shooter_mvp_file_structure"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1709",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_space_shooter_mvp_implementation_plan",
+      "target": "plans_2026_06_20_space_shooter_mvp_follow_ups_explicitly_out_of_scope_for_this_plan"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_space_shooter_mvp_implementation_plan",
+      "target": "plans_2026_06_20_space_shooter_mvp_global_constraints"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1182",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_10_wave_spawner_drives_procedural_waves_pickup_drops"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1283",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_11_parallax_starfield_background"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1345",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_12_hud_main_menu_and_main_scene_wiring"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1600",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_13_audio_hooks_structural_no_bundled_files"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_1_project_scaffold_balance_constants"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L170",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_2_difficulty_formulas_pure_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L259",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_3_save_data_pure_json_read_write_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L361",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_4_wave_pool_procedural_enemy_selection_pure_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L455",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_5_gamemanager_savemanager_autoload_singletons_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L598",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_6_player_scene_touch_drag_movement_hp_auto_fire"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L758",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_7_enemy_base_3_movement_pattern_types"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L968",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_8_boss_scene_scaling_single_attack_pattern"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
+      "source_location": "L1075",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_20_space_shooter_mvp_file_structure",
+      "target": "plans_2026_06_20_space_shooter_mvp_task_9_pickups_weapon_boost_shield_speed_bomb"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_approaches_considered"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L284",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L136",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_entity_visual_reference_current"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L90",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_file_structure_as_shipped"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_global_constraints_as_shipped"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L160",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_hud_layout_current"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L239",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_kenney_asset_sources_cc0"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L184",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_level_boss_flow_current"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L350",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_out_of_scope_still_yagni"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L212",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_testing_and_success_criteria"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L444",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_third_party_assets"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_ui_and_graphics_upgrade_implementation_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_visual_direction"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L62",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_approaches_considered",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_a_kenney_first_fastest"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L74",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_approaches_considered",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_b_hybrid_kenney_gameplay_custom_diegetic_ui_recommended_shipped"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L74",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_approaches_considered",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_c_shader_heavy_polish"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L147",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_entity_visual_reference_current",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_pickup_kinds_pickup_gd"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L196",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_level_boss_flow_current",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_task_1_assets_and_theme_foundation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L213",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_level_boss_flow_current",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_task_2_gameplay_sprites"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L228",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_level_boss_flow_current",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_task_3_background_and_parallax"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L239",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_level_boss_flow_current",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_task_4_diegetic_hud"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L255",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_level_boss_flow_current",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_task_5_menus_and_game_over_overlays"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L268",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_level_boss_flow_current",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_task_6_vfx_polish"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L319",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_bug_fixes_across_sessions"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L368",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_10_combat_tuning_pickups_pause_menu_hud_polish"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L379",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_11_combat_zone_pause_ux_vfx_rockets_pickups"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L389",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_12_explosion_vfx_game_over_ship_meteorite_barrier_rocket_speeds"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L395",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_13_barriers_enemy_speed_penta_shot_confirm_dialog_player_visual"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L402",
+      "weight": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_14_difficulty_scaling_spawn_pacing_penta_triple_priority",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L286",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_1_core_visual_upgrade"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L291",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_2_custom_art_polish"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L298",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_3_boss_progression"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L305",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_4_pickups_flow_hud_fixes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L312",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_5_wave_length_boss_shots"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L322",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_6_boss_polish_zigzag_vfx_hud_abilities"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L344",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_7_wave_size_rocket_launch_hud_polish"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L351",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_8_boss_timing_hit_glow_music_rockets"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L360",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_9_wave_density_hud_polish_spawn_cap_music_revert"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "c54674cf2f9c5852d7b0f8df12c84e1b85bf641f"
+}

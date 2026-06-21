@@ -1,0 +1,1797 @@
+{
+  ".superpowers/sdd/final-review-fix-report.md": {
+    "mtime": 1781946490.1123624,
+    "ast_hash": "4d3b058696c6038ea1f72125c9c441e2",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/progress.md": {
+    "mtime": 1781947403.736948,
+    "ast_hash": "f47ee09f4995ffa7e0ec3c5a7df37be5",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-1-brief.md": {
+    "mtime": 1781941135.6554325,
+    "ast_hash": "5750108ebd16bc79a6f8cd0f6817a8c2",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-1-report.md": {
+    "mtime": 1781941234.770644,
+    "ast_hash": "0937f1db9c905d2b56bcf74a90d82a78",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-10-brief.md": {
+    "mtime": 1781943976.1298206,
+    "ast_hash": "b4814152ce242a5f3732994703d74c66",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-10-report.md": {
+    "mtime": 1781944060.2954404,
+    "ast_hash": "c5cc25819b42d174a6bec9f845bfd3c7",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-11-brief.md": {
+    "mtime": 1781944195.3101888,
+    "ast_hash": "d4288bd565716f53c7dde9dcb2777b0a",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-11-report.md": {
+    "mtime": 1781944244.202688,
+    "ast_hash": "654c935b2def5f881a6bfa392225b75c",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-12-brief.md": {
+    "mtime": 1781944608.4748096,
+    "ast_hash": "3ca6b289302ceacb108b09ebbc4bd159",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-12-report.md": {
+    "mtime": 1781945283.094875,
+    "ast_hash": "d11c4ada2927dbbeb67ee3b1e25cacf0",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-13-brief.md": {
+    "mtime": 1781945446.277258,
+    "ast_hash": "b1ca68c6351f312b4fdd1821cee6c3f5",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-13-report.md": {
+    "mtime": 1781946068.1495504,
+    "ast_hash": "fe1390004c101bfe74814bd5b42d15fc",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-2-brief.md": {
+    "mtime": 1781941330.7291217,
+    "ast_hash": "e86d0992ae831f1a6f881ae45967cb61",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-2-report.md": {
+    "mtime": 1781941766.9368985,
+    "ast_hash": "2ea90b0d992464c3ce6eadbe3e6462fe",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-3-brief.md": {
+    "mtime": 1781941814.5651197,
+    "ast_hash": "7879df085fd8b91d63f85c594f561033",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-3-report.md": {
+    "mtime": 1781941964.0622816,
+    "ast_hash": "de983f6b67df488b96ba7af0be852819",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-4-brief.md": {
+    "mtime": 1781942042.2510574,
+    "ast_hash": "a023dd322dd7de8d6c5c5b41e3e601c0",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-4-report.md": {
+    "mtime": 1781942108.0040464,
+    "ast_hash": "77404d4671b573a4e76fc18fc0208efa",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-5-brief.md": {
+    "mtime": 1781942180.8063424,
+    "ast_hash": "9d4c40fd5af73da53ac9c51baa4e4862",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-5-report.md": {
+    "mtime": 1781942362.6300273,
+    "ast_hash": "8f35931c50d68fa7e928839b8ea11465",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-6-brief.md": {
+    "mtime": 1781942513.1035879,
+    "ast_hash": "8b13e39076b5fe824065d729dd9d169d",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-6-report.md": {
+    "mtime": 1781943061.4232252,
+    "ast_hash": "b5345e1b526331d558cf2b751bb78725",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-7-brief.md": {
+    "mtime": 1781943127.1462448,
+    "ast_hash": "a1f6a7c5d930832cbcc2be1b63545226",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-7-report.md": {
+    "mtime": 1781943250.880925,
+    "ast_hash": "441f2827245306c7267efd5bf8f68b70",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-8-brief.md": {
+    "mtime": 1781943342.1727514,
+    "ast_hash": "6617828584df9eb114c05f5bf9a7fa43",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-8-report.md": {
+    "mtime": 1781943408.7847443,
+    "ast_hash": "7a5a492fd6cdeeabbf0c4283f427bf80",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-9-brief.md": {
+    "mtime": 1781943562.0510457,
+    "ast_hash": "e11aec5ca68ed83848a4bf5de1f2062c",
+    "semantic_hash": ""
+  },
+  ".superpowers/sdd/task-9-report.md": {
+    "mtime": 1781943858.0825677,
+    "ast_hash": "d3e209d0751273b690e8ab7108bb671c",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1782037715.8638706,
+    "ast_hash": "4e54cd20ac0d2622d4a903203ea4e875",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/license.txt": {
+    "mtime": 1390955476.0,
+    "ast_hash": "3168b09f80d7394f85ba3eedbd863954",
+    "semantic_hash": ""
+  },
+  "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md": {
+    "mtime": 1781940991.5970912,
+    "ast_hash": "601ad1938c5aa5af28e23db20e61b75d",
+    "semantic_hash": ""
+  },
+  "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md": {
+    "mtime": 1782045983.1422887,
+    "ast_hash": "bc67c24d3316ef2a86d5f757591099cf",
+    "semantic_hash": ""
+  },
+  "assets/sprites/enemy.png": {
+    "mtime": 1782021859.7049315,
+    "ast_hash": "2b57c18c3fa88d582959cb3e1a656270",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Backgrounds/black.png": {
+    "mtime": 1390955428.0,
+    "ast_hash": "699851726138a4d4f903ad3a299b5752",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Backgrounds/blue.png": {
+    "mtime": 1390955424.0,
+    "ast_hash": "486592e94dd155e3debc29eb0c1b626c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Backgrounds/darkPurple.png": {
+    "mtime": 1390955432.0,
+    "ast_hash": "fb3830a47cdbe2dc383835e3b8d1a461",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Backgrounds/purple.png": {
+    "mtime": 1390955420.0,
+    "ast_hash": "071892d0b7fe98c67a560d7ce8f32737",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip1_damage1.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "51d11d02c93f8ca8a0958c06054c7090",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip1_damage2.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "5c138e54b2fe486f180544ccfa5cb158",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip1_damage3.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "333bc0bef3ac128adf3ea752c6eddf95",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip2_damage1.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "0ceec16f6e22121fb00b6e7e76f08443",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip2_damage2.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "3f0035c7adaf1c0ef1245dbb96aa8ccc",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip2_damage3.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "38a14cc84dc78d408781b53d657f81b0",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip3_damage1.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "fb9b2f72f7fd7db0cc87fdace33892ca",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip3_damage2.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "0de5d1ae5c202ff3eb105d3585516e04",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Damage/playerShip3_damage3.png": {
+    "mtime": 1390955154.0,
+    "ast_hash": "8f95d8fba5545baea87ac9ea04bf4305",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire00.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "6c3d8bc89cd33c03a0953418e8bdc5de",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire01.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f694eb318c51740cce8d5cb0b2e24f57",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire02.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "608c910ffb20e9d9675b0a58b68ad085",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire03.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "851d0e0caa82dff555c49a3e5567bab3",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire04.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5def2bf292428b6634a7d9ee62f3af70",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire05.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "04478d093b8d6255138634c32a1f6c64",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire06.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ff91ba51dabfdb48b50cbf0ca2a09fac",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire07.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c50b179d4de1b91251b8297fc4369dc5",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire08.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "460401fe70b903442fe4e83888d6614c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire09.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5452b841f001bf1c441814dd61f2784c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire10.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "bce27d962141fa1626ac062043c71637",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire11.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "61b1955f23523c28c113e40330bea1b3",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire12.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "6d867296e6f8e5c4dff2e8cdc2176a1c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire13.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "89aeb725c62f9a671432fca1cc6a91b8",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire14.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2a536ab3f2742400c7b8f8c4e174282c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire15.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "68ce819037d748ba6054cd5e534cbe64",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire16.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "412ed674eb14c45270e282c323a0d949",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire17.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "d07dd8111064b247757a0113746c69a4",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire18.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a6dc9a77513086f0324170669005e634",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/fire19.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e8f00c57d2ea55bceb6b15c689819aca",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/shield1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "310b96e5807494cab5d4985812b3603c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/shield2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "640300ac44ba5be0ab1eee3220b35b00",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/shield3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "26e82df666b42f5115f725191e8f92fc",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/speed.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3c4d154a9ac49977b255d86ec0ee633e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/star1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4cd187c1e5cd24e4eea1cdc2d56d94b7",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/star2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "02cc37823aa18bce85f95ce38548b7a4",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Effects/star3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "d336b2795f532e3bccd18e74546ae5a2",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlack1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7d7300c0a5a59378e449f7ca6672f4eb",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlack2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "96026301fe049762faa40df803d34dd6",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlack3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "82621c8db8263b567b114eeb0e3652a0",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlack4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "d284b9ed7e5e54e82579f4fa9bcedbe7",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlack5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "21ae7cb65d9062dd49e8d9ce5e8546e7",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlue1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "880a48d304b545b237c8821e6e667278",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlue2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "b46dc0a15816e4b068ca4ec1a4461b55",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlue3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e4bec39496235c106bfd20a30d674fba",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlue4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2c0721c19ea901fa29cb458c345386fa",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyBlue5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2175ec48b0e07df6173608ba6c4a909e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyGreen1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4c9eada27cc1d9c5ecce887fe0dc3055",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyGreen2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "bec7a6d72c689f7153fa22e46e83af87",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyGreen3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "69b0403908e60fc6c934fadec96e02ce",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyGreen4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5cc2944aae2fab320203b0266952d71a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyGreen5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "25ceeece3fba3d6dbaecb582ab316244",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyRed1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "42b6e052dc0005117f3983a013c2fa22",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyRed2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "53ec5ff3acd28ff07793583a05b02e4a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyRed3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2317c017085f81f88124aee28e5def38",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyRed4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2bb51f673583bcce9bf915d794c93d10",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Enemies/enemyRed5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "256b726e214834320596f267e6d5ccfe",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue01.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "704e0d2f1d9fc63ea910b9ad957d1cc7",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue02.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "6bd87506d6ec46bdfb0591d05b40a7d8",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue03.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "6813f60ee270ed36a5b0489353316ef5",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue04.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8a8a6d87da991eebbff2f60a6b863c2d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue05.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "83b1492eadbc28a0feacf6caeb3bb550",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue06.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "bba9b80a3c5120318729b5c3c6cd3605",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue07.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "dd647afafbf90e0d16a7b18cae503c8b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue08.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f813ab35f84db9a65e1779ffef7ee52d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue09.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ffb60e1a774ed51e8ccfbee4e40117b4",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue10.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e2be2cac3f0f5dd35eee9278a6dc2607",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue11.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9f6eef184a983e233d5850c161b65f9a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue12.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "107f390c5a6c7ac5bf38d5c0ad639133",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue13.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5d1e4250c9b9d89585bf841886e9cd1d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue14.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4008a0d7240843137c781bae43f8b0e1",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue15.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3bfcf9fd1cfb486edd6605d3d36c9130",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserBlue16.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "64a47fe1b71887b2b0e9c2c376e68113",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen01.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7a4096cfa7389aa86476e4d8a03d6882",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen02.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "419b9b2d629b7efcfa1dbc4fe53b7fdd",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen03.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8ac150daca4af6a0d2b70397478e5759",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen04.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "48af2faf06958941c51866d0e02d554a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen05.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "26b69a4140ecfb2922a49fbf12a07512",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen06.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7489a0c092e5a234f21e9d244ebf7e14",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen07.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "60ed7dd84e018d7cb2410414331679bf",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen08.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "18c0ca5171a5e655ee0e3f3ad68b4f7e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen09.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a1f68ca96336639e16db47a559cb8a5f",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen10.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c5f63ea01861e96345b3fb97804b8f9b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen11.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "530e7fe8c167550230ed88e02a0d88cc",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen12.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "536cb65b26290122c98ec6ceb4e123d5",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen13.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c95e5b0fa9149eca7f75ee03c252d935",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen14.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4f892f1825d80bcffa1d78947b321e1a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen15.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5409f88c5954116fa8c6f735e7d20b18",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserGreen16.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "aaaf8c5bfba17be72827dc1a8b1cf105",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed01.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "86c72e53cfba4888af4fbdda296e2058",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed02.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9acfbd12b3458bf0f695dfc409f0a238",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed03.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "64fe2a0b17997f4ae7d0d722617d11fa",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed04.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e0c526fb5f47cb3fd08d9d8aff5caf81",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed05.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "fbf7c3cbdcb26892b8e870b8f65716bb",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed06.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8d03ae7a9c4d46d196e8a6fcf98bb37b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed07.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9e3833c3ca2efa799a3d5afe50b6d8c6",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed08.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "50da4a52b9683294e8d4ca99c46bf592",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed09.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "db4622c4422c70cc7b670f03004656db",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed10.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3dd1112cba60e53d85a0ee9350c50404",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed11.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "0136d85b0deea36dfb774ed7bc04d1e7",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed12.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "b40aa3c2f6724c5a46254d94735665ca",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed13.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "b133930d7d0356d370c50033a8c14fa5",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed14.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e50d123c23023039c3790b942bb8b513",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed15.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "b97432e2952503107a06ca0ef9ce6835",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Lasers/laserRed16.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a881265dcc9237179e68566b1e5b6076",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_big1.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "200fc95669e0536db582a7e9de72aad1",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_big2.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "bde749ddd82ba85da67a38cb79aa74f2",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_big3.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "6d9af0c015026ba900b5f172b6eed409",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_big4.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "cf5715cfb767048f58a8fecfca5a24f8",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_med1.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "e19a2a6cc6ddab7915371238259d9076",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_med3.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "50bd09edb84069cdf83d0394b6f79e1a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_small1.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "24a6079e980329901c22fdc9c1fc629d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_small2.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "d97cc02c274016460fa91181bb04ac1f",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_tiny1.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "3089f8ab8c4c9923d8c127f908aff159",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorBrown_tiny2.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "72c448bbb3f2af1769927dcb420e2e51",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_big1.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "8cc9aa00676960af718fd27a47aebe36",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_big2.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "aa89d70a0f75f58936326f999eb5c1ef",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_big3.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "0a459e383ca4c22a6a69600623891b50",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_big4.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "928f679d1c007f3beee7d55898eb502b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_med1.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "e6d6e7d10cc45bb573294d1386d95992",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_med2.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "636ea078485cfb78cbe65c0ad7a8148a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_small1.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "102c6b691bff1692682c1f5972ce7a32",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_small2.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "f6a8c4df1c3ab32e2b0ec9d427a8cbe4",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_tiny1.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "aabb4c750f29b6a0098ab9783436b2ba",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Meteors/meteorGrey_tiny2.png": {
+    "mtime": 1390953502.0,
+    "ast_hash": "5922fc8f3823370c657030f9139c5c61",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beam0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "fdef49ce63af6db31fbfeb4a6c8ac298",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beam1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "b362343c7402bdfab2ae48b3c2139c10",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beam2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a7b89143935ff17bb79aeddcf8e99ec9",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beam3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "31ef02dabb04613a555f6ebabbefde41",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beam4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "d3f34a64310c727b818f844bf8e38970",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beam5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "b6ff496ef5cd9e7ee685bfce09dbb726",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beam6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "dcaaf932bd1144aa39cb4bd684012d9d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beamLong1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "95ef5a1662485ea7546afa45ecf0b437",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/beamLong2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "6204d5c2b999de00c82bc03b5de60a67",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitBlue_0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ee2d7499f5ef28f4a400283929799d3b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitBlue_1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f344886a89867250ec821b37943ec780",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitBlue_2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7b96a78e154d32fc3d36e9042cbf218e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitBlue_3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "fc43f6db8b25f1d7f3dd19106e5f0220",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitBlue_4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5ff056a0848f7bebc15ce6bfb0600394",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitBlue_5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "bb5e3afdaa5bd70c1c4bb420e1f351d9",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitBlue_6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "533b719f6a858b88458deea04b6445a5",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitBlue_7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "cfdda516e083878e7bee2b8ff05a7177",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitGreen_0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "602180a331080fda4d19ae267c065e77",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitGreen_1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "22d90e8fc3e5c8710ab62afbbcf87c5e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitGreen_2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8d331b2d792db562d92cb7425f06fdf2",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitGreen_3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "0e84aac219fcb5198221d4bb358c6938",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitGreen_4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9053cc82eddb4ec6a9f6613bb285e55b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitGreen_5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8b3191faf9d86298a95ac0ccdd5b53ad",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitGreen_6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e0486513a39e0890e0b2f88977552ef2",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitGreen_7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c3eecfda0c581a2ac4605badcc19ff87",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitRed_0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "45e53058bbd636168b048a0f9e0e5ce9",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitRed_1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8765f44067a6200d512476c2251950cf",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitRed_2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c6edfd8facbdfaa6b85fc47a36aa4e1c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitRed_3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c423febd9d6d5064604ffab6b3d6b33a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitRed_4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "80ca785e2c801b4b121f8ae05c12c462",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitRed_5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5a8cb22c462022133bd8addb72a7fc06",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitRed_6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c96cfcd4f3cd7e5d42939b4b3918f975",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitRed_7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f27c9842432e06e0e2a72ece1c4f3a68",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitYellow_0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "d2cefe8eaf9a8fef0b8fa12d998ff798",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitYellow_1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e92c7f6bddb7605df5f9da593123fe28",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitYellow_2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "eac4f77dd243f36f1202dab0ae64dfcc",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitYellow_3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "aa02cee44902020a7940657bddb8f6a6",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitYellow_4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3772dbf060c46562caa5cc7c68a80db9",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitYellow_5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9cb5597001e7b83cc0839ec4ac03e3dc",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitYellow_6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "204af3fb43238f17ca1edc955f49767a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/cockpitYellow_7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3b8851f37d990bb0ec7d9ec225eb5d28",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/engine1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "48344e4ebe9fcba6a989500f6920e93a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/engine2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "daa977f58c188b90108ffe2081ab6eac",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/engine3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "d574945f59ac6a126a2d01b4006daa09",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/engine4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "35ba2a3c4963ce3a33c1ffafb3c81773",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/engine5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3b0556f2a12949fc25381e0b8d608587",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun00.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9c06ccbf740e6f6d3a0950c6d5c7b2e2",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun01.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3e155c162a2040d26e004ddb69ef3c40",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun02.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7f30e59a318d17e55eedf2f625961674",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun03.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ff2e55c659d1aedc09408e2bb5305daa",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun04.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ace395689b9efeb2ea10bb17c7cf1b65",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun05.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a97ace0b520cd0345663c3f3d2b31557",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun06.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ea0e9a949e28b612aa573937cd0dadf7",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun07.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2c2b8bed39e7b6f22e90ab9aa9a2b671",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun08.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8d3d9a5708abf15812f8fdc15ffb27ae",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun09.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "0741e68486bf027554c1c19e49f860f1",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/gun10.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f2c38bacb04609900bb2cfe1fb39f312",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/scratch1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "cb12609f7914ce44339bae179b812aa4",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/scratch2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9a6a897064e8bc90f30cd75cb8731645",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/scratch3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "fc90ef88578198fcb0486499243d40de",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/turretBase_big.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "996bfb5738413867d04674fc912e83df",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/turretBase_small.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7733d4269cc5e837b429093a239c963e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingBlue_0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3bcecfc8e7123a949c5cdce6ef64eec1",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingBlue_1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "eba50dc6e78d74855d4ec0b71b68b765",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingBlue_2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "499dfbbc90ded6d0ba6f57403552e0ee",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingBlue_3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3d434533a2c08b5707900a7851ffe94c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingBlue_4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c961fc51059fc6177311c032d4b7bd99",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingBlue_5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "65f5458135e6747bf69be76876838893",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingBlue_6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e1d2fdfdd5f7dfa14d760669725b84fe",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingBlue_7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2254bdb7aca4476bd3d6d0ae82fbc3a0",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingGreen_0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e88bf31942b7b99c691791d6f49bfcb1",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingGreen_1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "65fe2ffef3b63b8520421523b88ee069",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingGreen_2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "148b6a00e1f571553a66bf9dc1c26063",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingGreen_3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "78c5bd76badd3a0d43d7bb71cda12153",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingGreen_4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "03c383555090ef75f4853fb6de1cc2fa",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingGreen_5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "272dbd4fb585a4857fc94995576535ce",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingGreen_6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2fd05795eb64f7dd9c147d9d169a5cb8",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingGreen_7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "819812737d84c1d3b732406a46288389",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingRed_0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "793eff3713ef9e7ba811915016192d4b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingRed_1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e28813a094c947d3587ac04b8ab7bb90",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingRed_2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "deab24a5265178334c07b2c442711a8a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingRed_3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "01cd8b591de7a1c070ea8fcb83faccc6",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingRed_4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "b6c38263df5f62eaeed622552360a817",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingRed_5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a85c3785fe9bfa5250efa87dea7c8b11",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingRed_6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5d7479710fa6961f11cf053407e414c6",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingRed_7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9ef43b6e98324c817d764ba88d745153",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingYellow_0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8884328dca889b7d5e13dff5b818ae61",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingYellow_1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "68a84d6ee4a32b37b91dca899c1f7b3f",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingYellow_2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5bc72ed69348dfe858423414e772a58e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingYellow_3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "769bd4f0c5dec44ea2aff9fc35e4c843",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingYellow_4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4a1ae6840027861ecc7da892ca1a7caf",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingYellow_5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "567d854867650127852869b07b444fca",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingYellow_6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "cc9503a4dfb4d956f95d40454f02be66",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Parts/wingYellow_7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "03978ec6018b2be316f97ec1a389db5a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/bold_silver.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8ea803d0f96032f1bc7ccab4d878b700",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/bolt_bronze.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "5d05fbae1aa45438bc0915d50982eb41",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/bolt_gold.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "0f95a428c0af40d690e823f2302067a3",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/pill_blue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "274764503eec5d3fff91595f79a22763",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/pill_green.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2343ad38deedad198693c9432d39ff3d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/pill_red.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "fe2224f89b59caf1a909e4f75f9ec1e3",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/pill_yellow.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3d2fd166f0ad64d5398d08e2858c8cab",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupBlue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4f6362bb6fae909d7b6975eb47c8b80b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupBlue_bolt.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "fff5f85fb87239a64ad2a57bbc791152",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupBlue_shield.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "36d29f84a535d9ae0316b9c79e860a87",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupBlue_star.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "bd70a317ff3adbb70d014c089d1ea6b1",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupGreen.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "fa444b0c1d4540935e9f2f03e6cf0ce6",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupGreen_bolt.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a38ecc68da11be39daa3f951bbec7f29",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupGreen_shield.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4aa776de875ef314555737827dfa4b72",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupGreen_star.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "801d3dddb760ecdb1ea9cde246267183",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupRed.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "d78c737a22df3d7cbd74ee20498f5c9e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupRed_bolt.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "3855fdd7d184db289037b5413cc9d1d5",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupRed_shield.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "bcaa3119d2c000ff61ce1a68efc7c9e2",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupRed_star.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "0505be7ff9a482bdfb5e27e445836cbf",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupYellow.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a89200b67a8b83c42d0409c15a4a0dc9",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupYellow_bolt.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "040399f1072248e61cf3ee524650ffdb",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupYellow_shield.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "079acffa0b18fbe30d9dd8fffbce0e36",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/powerupYellow_star.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8db4ab469f486249d14da9aa3af48661",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/shield_bronze.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e2d1ecfc74ea9005ed88bf7749d7e190",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/shield_gold.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ccd06dcc660ffb71e9411922fc0835d9",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/shield_silver.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "99f35ca71727eef47103cd15f2e61912",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/star_bronze.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ac7dc38701ca2fc9cb3dc911337da79b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/star_gold.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "33dbd8b98af596f2ec03b4c1457f3258",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/star_silver.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "72a1279bc2c507643d206f58d6d7d624",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/things_bronze.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "d29a02e98623a87851be8a7b4a85cf60",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/things_gold.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7da52c2e17c09d8bc3d53625129b8702",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/Power-ups/things_silver.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c043653ffe2557fe46bf8dcc5647af9b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/buttonBlue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4e897a4ecabb4429a45352ac0334914c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/buttonGreen.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e17c70c7e5eda22ee6a065c2cfb7d912",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/buttonRed.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c4a9ed05a7a9f46c57cd4905c2f0b8c8",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/buttonYellow.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "df3135a1f4a73586ea89e795fe1ea251",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/cursor.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f986a5e4f93ad5a3cdd524dd1186225e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral0.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "07879f64998df53a21caaf34ff7d5246",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral1.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a4fdabdeb9b88129fe7cf7b6f2ffbf13",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral2.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "10233fcd5b9e8f3584494f58ed73320d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral3.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f905c87ef15e1ff7f68a0db70e607c6c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral4.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "007ca8905ad22043e958cb21056e809a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral5.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f8d7d64f9eceb6358f1c4b8c353f618e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral6.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ac2acc2cedaa9c7e47410d308c738e02",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral7.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7b526fafce53c3204a08f05fcf6a4af1",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral8.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "2c4e2949e2c1fd045acd95b2a38691a3",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeral9.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "cfadb5199a572a89194de1dea4c44469",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/numeralX.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7b80baf77369d33506fb34ea5f863878",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife1_blue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "6853a12014c976fb987a6da886b69191",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife1_green.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "c9076a32fe70eab9ebfa144936f00315",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife1_orange.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a64578e6e35818e180d36865e76f88cc",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife1_red.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "ffc5b064484423762555d516e2971eaa",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife2_blue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "0c890829a332bdb2c5c3235da16517ae",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife2_green.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f7f04a0a7e790dcfc13f6b4472a22255",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife2_orange.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9b172b63901dc4a92b86e5b181220c62",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife2_red.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8de859d2fba12cbfcf3f0ecc64856e1c",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife3_blue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9fa5c73281ea9cd4add4c9df374acb9e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife3_green.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "8cd1f252d7a20cc441737620c248c5d9",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife3_orange.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "e2aceef554943666ac7c0de020935b72",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/UI/playerLife3_red.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a967e921ca57260742c11d3c8ac22ff1",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip1_blue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "27cecc12df3a7844472efb2954610f32",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip1_green.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "0269d1b12cb904d948f4ecdf88b16649",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip1_orange.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "80e5b2b72b8b8a08cf4464b96ced5003",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip1_red.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "117cb318d1295fd017c89a18bfef4927",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip2_blue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7b600eb322a13acab8808864e9477a85",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip2_green.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "a68bd881584a4f793c04fc8e774e0abc",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip2_orange.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "f3e1bb132dcbbbd2e1d1a798e9d33b63",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip2_red.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4f7ecc777e9d828bf109773c2c535472",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip3_blue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7e905a5a5bf78445fa00a38f3c6123bd",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip3_green.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "74e42a0afc6e91b7227fe572288abf3a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip3_orange.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "56140b5df4d89148fe96c43382e63752",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/playerShip3_red.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "6eb9f3249794b11be92602dc1a70c185",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/ufoBlue.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "9649734bb0af0abe54a46c1f51156ad9",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/ufoGreen.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "7082c3c772cf613cc5d0342d56f0aff7",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/ufoRed.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "39787d2a37e5b74ac9d94fb9ce0c5a97",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/PNG/ufoYellow.png": {
+    "mtime": 1390952460.0,
+    "ast_hash": "4328c0cf30458117271f9c7987ea6409",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Spritesheet/sheet.png": {
+    "mtime": 1390953946.0,
+    "ast_hash": "3b7e3bad1ab79632d11dbca248d830de",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Vector/sheet.svg": {
+    "mtime": 1390953868.0,
+    "ast_hash": "9dd54e4a2c3d9b6b88c39140bf486e42",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/preview.png": {
+    "mtime": 1390955676.0,
+    "ast_hash": "fe271e20a82ce43cc52696f1d70b1754",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/sample.png": {
+    "mtime": 1390956092.0,
+    "ast_hash": "4b5ffbf3846454a9c0b290a40c77a504",
+    "semantic_hash": ""
+  },
+  "assets/sprites/laser.png": {
+    "mtime": 1782020870.9334435,
+    "ast_hash": "6fe11cbc3cdafe2a0711f7a7fd91b1f3",
+    "semantic_hash": ""
+  },
+  "assets/sprites/laser2.png": {
+    "mtime": 1782020945.8785312,
+    "ast_hash": "b668dba90d55202df16684959e5bb1b5",
+    "semantic_hash": ""
+  },
+  "assets/sprites/logo.png": {
+    "mtime": 1782014973.6251361,
+    "ast_hash": "fefa835afb1098b0658eceb299b73b0a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/shooter2.png": {
+    "mtime": 1782019012.658512,
+    "ast_hash": "8058cea4c084df717029a253d389b5ce",
+    "semantic_hash": ""
+  },
+  "assets/audio/music/starshooter.ogg": {
+    "mtime": 1782019138.0261354,
+    "ast_hash": "7ee72fbe182b18eba7a5fb18b8111135",
+    "semantic_hash": ""
+  },
+  "assets/audio/sfx_laser1.ogg": {
+    "mtime": 1782016393.1993742,
+    "ast_hash": "358307a1211ed4ade56ecdb3b980384d",
+    "semantic_hash": ""
+  },
+  "assets/audio/sfx_laser2.ogg": {
+    "mtime": 1782016393.2012458,
+    "ast_hash": "d1cba4e2b3f98a61aaed1b08a03abd7b",
+    "semantic_hash": ""
+  },
+  "assets/audio/sfx_lose.ogg": {
+    "mtime": 1782016393.2026265,
+    "ast_hash": "a8ac60454f8661eb41887323ce87716a",
+    "semantic_hash": ""
+  },
+  "assets/audio/sfx_shieldDown.ogg": {
+    "mtime": 1782016393.20366,
+    "ast_hash": "c49980002bd7d986409301bcf4d06c11",
+    "semantic_hash": ""
+  },
+  "assets/audio/sfx_shieldUp.ogg": {
+    "mtime": 1782016393.2046149,
+    "ast_hash": "bf74bd3731d3ca4b88e74847ca14fd9a",
+    "semantic_hash": ""
+  },
+  "assets/audio/sfx_twoTone.ogg": {
+    "mtime": 1782016393.2056406,
+    "ast_hash": "776125c9c12cec402e208d5721c46a3d",
+    "semantic_hash": ""
+  },
+  "assets/audio/sfx_zap.ogg": {
+    "mtime": 1782016393.2066472,
+    "ast_hash": "2d71cc4ffd367b875c2a9f4b4edef08e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Bonus/sfx_laser1.ogg": {
+    "mtime": 1390954312.0,
+    "ast_hash": "358307a1211ed4ade56ecdb3b980384d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Bonus/sfx_laser2.ogg": {
+    "mtime": 1390954324.0,
+    "ast_hash": "d1cba4e2b3f98a61aaed1b08a03abd7b",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Bonus/sfx_lose.ogg": {
+    "mtime": 1390954672.0,
+    "ast_hash": "a8ac60454f8661eb41887323ce87716a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Bonus/sfx_shieldDown.ogg": {
+    "mtime": 1390954662.0,
+    "ast_hash": "c49980002bd7d986409301bcf4d06c11",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Bonus/sfx_shieldUp.ogg": {
+    "mtime": 1390954652.0,
+    "ast_hash": "bf74bd3731d3ca4b88e74847ca14fd9a",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Bonus/sfx_twoTone.ogg": {
+    "mtime": 1390954346.0,
+    "ast_hash": "776125c9c12cec402e208d5721c46a3d",
+    "semantic_hash": ""
+  },
+  "assets/sprites/kenney/Bonus/sfx_zap.ogg": {
+    "mtime": 1390954334.0,
+    "ast_hash": "2d71cc4ffd367b875c2a9f4b4edef08e",
+    "semantic_hash": ""
+  },
+  "assets/sprites/rocket.png": {
+    "mtime": 1782043140.3829517,
+    "ast_hash": "dfe7078caa94e35c6918dfefa48da2d5",
+    "semantic_hash": ""
+  },
+  "assets/audio/music/calm_space.ogg": {
+    "mtime": 1782033233.135013,
+    "ast_hash": "e0ee19692c51bd7e07713a82d570c099",
+    "semantic_hash": ""
+  },
+  "assets/effects/explosion/LICENSE-GodotSimpleExplosionVFX.txt": {
+    "mtime": 1782043248.8622024,
+    "ast_hash": "d78f9bd37990b81a8eaec1bd365bc763",
+    "semantic_hash": ""
+  },
+  "assets/effects/explosion/smokesprite.png": {
+    "mtime": 1782043248.8516784,
+    "ast_hash": "7d2de52032eda231f0096a83b2f56810",
+    "semantic_hash": ""
+  },
+  "assets/sprites/meteorite.png": {
+    "mtime": 1782042995.6191394,
+    "ast_hash": "bc713d74035c57dde0c4ad87ce207283",
+    "semantic_hash": ""
+  }
+}

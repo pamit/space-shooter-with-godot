@@ -6,10 +6,11 @@ var _fire_timer: float = 1.0
 
 func _physics_process(delta: float) -> void:
 	position.y += _speed * 0.5 * delta
-	_fire_timer -= delta
-	if _fire_timer <= 0.0:
-		_fire()
-		_fire_timer = GameConstants.SHOOTER_FIRE_INTERVAL
+	if is_hittable():
+		_fire_timer -= delta
+		if _fire_timer <= 0.0:
+			_fire()
+			_fire_timer = GameConstants.SHOOTER_FIRE_INTERVAL
 	super._physics_process(delta)
 
 func _fire() -> void:

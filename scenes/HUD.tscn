@@ -1,33 +1,326 @@
-[gd_scene load_steps=2 format=3]
+[gd_scene load_steps=3 format=3]
 
 [ext_resource type="Script" path="res://scripts/hud.gd" id="1"]
+[ext_resource type="Theme" path="res://assets/ui/game_theme.tres" id="2"]
 
 [node name="HUD" type="Control"]
-script = ExtResource("1")
+layout_mode = 3
 anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+theme = ExtResource("2")
+script = ExtResource("1")
 process_mode = 3
 
-[node name="HPBar" type="ProgressBar" parent="."]
-offset_left = 20.0
-offset_top = 20.0
-offset_right = 220.0
-offset_bottom = 44.0
+[node name="TopPanel" type="PanelContainer" parent="."]
+layout_mode = 0
+offset_left = 10.0
+offset_top = 10.0
+offset_right = 710.0
+offset_bottom = 54.0
 
-[node name="LevelLabel" type="Label" parent="."]
-offset_left = 20.0
-offset_top = 50.0
-text = "Level 1"
+[node name="Margin" type="MarginContainer" parent="TopPanel"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 4
 
-[node name="ScoreLabel" type="Label" parent="."]
-offset_left = 20.0
-offset_top = 80.0
-text = "Score 0"
+[node name="Row" type="HBoxContainer" parent="TopPanel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 12
+alignment = 1
 
-[node name="PauseButton" type="Button" parent="."]
-offset_left = 620.0
-offset_top = 20.0
-offset_right = 700.0
-offset_bottom = 60.0
-text = "||"
+[node name="ShieldLabel" type="Label" parent="TopPanel/Margin/Row"]
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_colors/font_color = Color(0.7, 0.9, 1, 1)
+theme_override_font_sizes/font_size = 18
+text = "SHIELD"
+vertical_alignment = 1
 
-[connection signal="pressed" from="PauseButton" to="." method="_on_pause_pressed"]
+[node name="HPBar" type="ProgressBar" parent="TopPanel/Margin/Row"]
+custom_minimum_size = Vector2(200, 20)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+max_value = 100.0
+value = 100.0
+show_percentage = false
+
+[node name="LevelLabel" type="Label" parent="TopPanel/Margin/Row"]
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_colors/font_color = Color(0.7, 0.9, 1, 1)
+theme_override_font_sizes/font_size = 18
+text = "LEVEL 1"
+vertical_alignment = 1
+
+[node name="PauseButton" type="Button" parent="TopPanel/Margin/Row"]
+custom_minimum_size = Vector2(36, 32)
+layout_mode = 2
+size_flags_vertical = 4
+text = "II"
+
+[node name="BossBarPanel" type="PanelContainer" parent="."]
+visible = false
+layout_mode = 0
+offset_left = 10.0
+offset_top = 90.0
+offset_right = 710.0
+offset_bottom = 122.0
+
+[node name="Margin" type="MarginContainer" parent="BossBarPanel"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 2
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 2
+
+[node name="BossRow" type="HBoxContainer" parent="BossBarPanel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 8
+alignment = 1
+
+[node name="BossLabel" type="Label" parent="BossBarPanel/Margin/BossRow"]
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_colors/font_color = Color(1, 0.55, 0.45, 1)
+theme_override_font_sizes/font_size = 18
+text = "BOSS"
+vertical_alignment = 1
+
+[node name="BossHPBar" type="ProgressBar" parent="BossBarPanel/Margin/BossRow"]
+custom_minimum_size = Vector2(0, 20)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+max_value = 100.0
+value = 100.0
+show_percentage = false
+
+[node name="BottomPanel" type="PanelContainer" parent="."]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 10.0
+offset_top = -72.0
+offset_right = -10.0
+offset_bottom = -10.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="Margin" type="MarginContainer" parent="BottomPanel"]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 4
+
+[node name="BottomRow" type="HBoxContainer" parent="BottomPanel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 12
+alignment = 1
+
+[node name="ActionButtons" type="HBoxContainer" parent="BottomPanel/Margin/BottomRow"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="HealthBoostButton" type="Button" parent="BottomPanel/Margin/BottomRow/ActionButtons"]
+custom_minimum_size = Vector2(52, 52)
+layout_mode = 2
+theme_override_font_sizes/font_size = 34
+text = "+"
+
+[node name="RocketSummonButton" type="Button" parent="BottomPanel/Margin/BottomRow/ActionButtons"]
+custom_minimum_size = Vector2(52, 52)
+layout_mode = 2
+text = "▲"
+flat = false
+
+[node name="PentaShotButton" type="Button" parent="BottomPanel/Margin/BottomRow/ActionButtons"]
+custom_minimum_size = Vector2(52, 52)
+layout_mode = 2
+text = "5"
+flat = false
+
+[node name="Spacer" type="Control" parent="BottomPanel/Margin/BottomRow"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="ScoreGroup" type="HBoxContainer" parent="BottomPanel/Margin/BottomRow"]
+layout_mode = 2
+theme_override_constants/separation = 8
+alignment = 1
+
+[node name="ScoreTitle" type="Label" parent="BottomPanel/Margin/BottomRow/ScoreGroup"]
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_colors/font_color = Color(0.55, 0.82, 1, 1)
+theme_override_font_sizes/font_size = 16
+text = "SCORE"
+vertical_alignment = 1
+
+[node name="ScoreLabel" type="Label" parent="BottomPanel/Margin/BottomRow/ScoreGroup"]
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_colors/font_color = Color(0.92, 0.98, 1, 1)
+theme_override_font_sizes/font_size = 28
+text = "0"
+vertical_alignment = 1
+
+[node name="PauseOverlay" type="Control" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 0
+
+[node name="Dim" type="ColorRect" parent="PauseOverlay"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0.02, 0.04, 0.08, 0.45)
+
+[node name="CenterBox" type="VBoxContainer" parent="PauseOverlay"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -160.0
+offset_top = -120.0
+offset_right = 160.0
+offset_bottom = 120.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 16
+alignment = 1
+
+[node name="PausedLabel" type="Label" parent="PauseOverlay/CenterBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.7, 0.9, 1, 1)
+theme_override_font_sizes/font_size = 32
+text = "PAUSED"
+horizontal_alignment = 1
+
+[node name="ResumeButton" type="Button" parent="PauseOverlay/CenterBox"]
+custom_minimum_size = Vector2(220, 44)
+layout_mode = 2
+size_flags_horizontal = 4
+text = "RESUME"
+
+[node name="RestartButton" type="Button" parent="PauseOverlay/CenterBox"]
+custom_minimum_size = Vector2(220, 44)
+layout_mode = 2
+size_flags_horizontal = 4
+text = "RESTART LEVEL"
+
+[node name="QuitButton" type="Button" parent="PauseOverlay/CenterBox"]
+custom_minimum_size = Vector2(220, 44)
+layout_mode = 2
+size_flags_horizontal = 4
+text = "QUIT TO MENU"
+
+[node name="ConfirmOverlay" type="Control" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 0
+
+[node name="Dim" type="ColorRect" parent="ConfirmOverlay"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0.02, 0.04, 0.08, 0.55)
+
+[node name="CenterBox" type="VBoxContainer" parent="ConfirmOverlay"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -180.0
+offset_top = -90.0
+offset_right = 180.0
+offset_bottom = 90.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 16
+alignment = 1
+
+[node name="ConfirmLabel" type="Label" parent="ConfirmOverlay/CenterBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.92, 0.96, 1, 1)
+theme_override_font_sizes/font_size = 28
+text = "Are you sure?"
+horizontal_alignment = 1
+
+[node name="ButtonRow" type="HBoxContainer" parent="ConfirmOverlay/CenterBox"]
+layout_mode = 2
+theme_override_constants/separation = 16
+alignment = 1
+
+[node name="YesButton" type="Button" parent="ConfirmOverlay/CenterBox/ButtonRow"]
+custom_minimum_size = Vector2(120, 44)
+layout_mode = 2
+text = "YES"
+
+[node name="NoButton" type="Button" parent="ConfirmOverlay/CenterBox/ButtonRow"]
+custom_minimum_size = Vector2(120, 44)
+layout_mode = 2
+text = "NO"
+
+[node name="BossWarning" type="Label" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -280.0
+offset_top = -120.0
+offset_right = 280.0
+offset_bottom = -60.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(1, 0.45, 0.35, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.8)
+theme_override_constants/shadow_offset_x = 2
+theme_override_constants/shadow_offset_y = 2
+theme_override_font_sizes/font_size = 36
+text = "WARNING: BOSS INCOMING"
+horizontal_alignment = 1
+
+[connection signal="pressed" from="TopPanel/Margin/Row/PauseButton" to="." method="_on_pause_pressed"]
+[connection signal="pressed" from="BottomPanel/Margin/BottomRow/ActionButtons/HealthBoostButton" to="." method="_on_health_boost_pressed"]
+[connection signal="pressed" from="BottomPanel/Margin/BottomRow/ActionButtons/RocketSummonButton" to="." method="_on_rocket_summon_pressed"]
+[connection signal="pressed" from="BottomPanel/Margin/BottomRow/ActionButtons/PentaShotButton" to="." method="_on_penta_shot_pressed"]
+[connection signal="pressed" from="PauseOverlay/CenterBox/ResumeButton" to="." method="_on_resume_pressed"]
+[connection signal="pressed" from="PauseOverlay/CenterBox/RestartButton" to="." method="_on_pause_restart_pressed"]
+[connection signal="pressed" from="PauseOverlay/CenterBox/QuitButton" to="." method="_on_pause_quit_pressed"]
+[connection signal="pressed" from="ConfirmOverlay/CenterBox/ButtonRow/YesButton" to="." method="_on_confirm_yes_pressed"]
+[connection signal="pressed" from="ConfirmOverlay/CenterBox/ButtonRow/NoButton" to="." method="_on_confirm_no_pressed"]

@@ -26,6 +26,9 @@ func _initialize() -> void:
 	check("level after advance", gm.level, 2)
 	check("score after advance", gm.score, GameConstants.SCORE_PER_KILL * 2 + GameConstants.SCORE_PER_LEVEL)
 
+	gm.restore_player_hp()
+	check("hp restored on new level", gm.player_hp, GameConstants.PLAYER_MAX_HP)
+
 	gm.damage_player(GameConstants.PLAYER_MAX_HP + 50)
 	check("hp clamped to 0", gm.player_hp, 0.0)
 	check("is_player_dead true", gm.is_player_dead(), true)

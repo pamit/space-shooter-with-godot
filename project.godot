@@ -15,8 +15,13 @@ window/handheld/orientation="portrait"
 window/stretch/mode="canvas_items"
 window/stretch/aspect="keep"
 
+[gui]
+
+theme/custom="res://assets/ui/game_theme.tres"
+
 [rendering]
 
+environment/defaults/default_clear_color=Color(0.0392157, 0.054902, 0.101961, 1)
 renderer/rendering_method="gl_compatibility"
 
 [autoload]

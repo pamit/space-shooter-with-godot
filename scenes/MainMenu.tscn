@@ -1,35 +1,93 @@
-[gd_scene load_steps=2 format=3]
+[gd_scene load_steps=4 format=3]
 
 [ext_resource type="Script" path="res://scripts/main_menu.gd" id="1"]
+[ext_resource type="Theme" path="res://assets/ui/game_theme.tres" id="2"]
+[ext_resource type="Texture2D" path="res://assets/sprites/shooter2.png" id="3"]
 
 [node name="MainMenu" type="Control"]
-script = ExtResource("1")
+layout_mode = 3
 anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("2")
+script = ExtResource("1")
 
-[node name="Title" type="Label" parent="."]
-offset_left = 240.0
-offset_top = 300.0
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.039, 0.055, 0.102, 1)
+
+[node name="ShipPreview" type="Sprite2D" parent="."]
+modulate = Color(0.35, 0.45, 0.65, 0.35)
+position = Vector2(360, 520)
+scale = Vector2(0.12, 0.12)
+texture = ExtResource("3")
+
+[node name="CenterPanel" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="PanelContainer" parent="CenterPanel"]
+custom_minimum_size = Vector2(420, 360)
+layout_mode = 2
+
+[node name="Margin" type="MarginContainer" parent="CenterPanel/Panel"]
+layout_mode = 2
+theme_override_constants/margin_left = 24
+theme_override_constants/margin_top = 24
+theme_override_constants/margin_right = 24
+theme_override_constants/margin_bottom = 24
+
+[node name="VBox" type="VBoxContainer" parent="CenterPanel/Panel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 16
+alignment = 1
+
+[node name="Title" type="Label" parent="CenterPanel/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.75, 0.92, 1, 1)
+theme_override_font_sizes/font_size = 36
 text = "SPACE SHOOTER"
+horizontal_alignment = 1
 
-[node name="HighScoreLabel" type="Label" parent="."]
-offset_left = 270.0
-offset_top = 360.0
-text = "High Score: 0"
+[node name="AccentLine" type="ColorRect" parent="CenterPanel/Panel/Margin/VBox"]
+custom_minimum_size = Vector2(0, 3)
+layout_mode = 2
+color = Color(0.95, 0.3, 0.25, 0.9)
 
-[node name="PlayButton" type="Button" parent="."]
-offset_left = 300.0
-offset_top = 420.0
-offset_right = 420.0
-offset_bottom = 460.0
-text = "PLAY"
+[node name="AccentLine2" type="ColorRect" parent="CenterPanel/Panel/Margin/VBox"]
+custom_minimum_size = Vector2(0, 3)
+layout_mode = 2
+color = Color(0.25, 0.65, 1, 0.9)
 
-[node name="MuteButton" type="CheckButton" parent="."]
-offset_left = 300.0
-offset_top = 480.0
-text = "Mute"
+[node name="HighScoreLabel" type="Label" parent="CenterPanel/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.6, 0.8, 1, 1)
+theme_override_font_sizes/font_size = 20
+text = "HIGH SCORE: 0"
+horizontal_alignment = 1
+
+[node name="PlayButton" type="Button" parent="CenterPanel/Panel/Margin/VBox"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+text = "ENGAGE"
+
+[node name="MuteButton" type="CheckButton" parent="CenterPanel/Panel/Margin/VBox"]
+layout_mode = 2
+text = "Mute Audio"
+alignment = 1
 
 [node name="MusicPlayer" type="AudioStreamPlayer" parent="."]
-autoplay = true
 
-[connection signal="pressed" from="PlayButton" to="." method="_on_play_pressed"]
-[connection signal="toggled" from="MuteButton" to="." method="_on_mute_toggled"]
+[connection signal="pressed" from="CenterPanel/Panel/Margin/VBox/PlayButton" to="." method="_on_play_pressed"]
+[connection signal="toggled" from="CenterPanel/Panel/Margin/VBox/MuteButton" to="." method="_on_mute_toggled"]

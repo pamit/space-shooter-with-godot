@@ -3,7 +3,13 @@ class_name SaveData
 extends RefCounted
 
 static func default_data() -> Dictionary:
-	return {"high_score": 0, "total_kills": 0, "currency": 0}
+	return {
+		"high_score": 0,
+		"total_kills": 0,
+		"currency": 0,
+		"current_level": 1,
+		"last_score": 0,
+	}
 
 static func load_from(path: String) -> Dictionary:
 	if not FileAccess.file_exists(path):

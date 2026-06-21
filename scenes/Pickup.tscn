@@ -1,17 +1,22 @@
-[gd_scene load_steps=2 format=3]
+[gd_scene load_steps=4 format=3]
 
 [ext_resource type="Script" path="res://scripts/pickup.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/sprites/kenney/PNG/Power-ups/powerupYellow_bolt.png" id="2"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_pickup"]
+radius = 28.0
 
 [node name="Pickup" type="Area2D"]
 script = ExtResource("1")
 collision_layer = 16
-collision_mask = 2
+collision_mask = 6
 
 [node name="Shape" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_pickup")
 
-[node name="Visual" type="Polygon2D" parent="."]
-polygon = PackedVector2Array(-12, -12, 12, -12, 12, 12, -12, 12)
-color = Color(0.2, 1, 0.4, 1)
+[node name="Visual" type="Sprite2D" parent="."]
+texture = ExtResource("2")
+scale = Vector2(1.7, 1.7)
 
 [node name="PickupSFX" type="AudioStreamPlayer2D" parent="."]
 

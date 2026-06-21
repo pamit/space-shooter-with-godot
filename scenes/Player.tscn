@@ -1,17 +1,30 @@
-[gd_scene load_steps=2 format=3]
+[gd_scene load_steps=5 format=3]
 
 [ext_resource type="Script" path="res://scripts/player.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/sprites/shooter2.png" id="2"]
+[ext_resource type="Texture2D" path="res://assets/sprites/kenney/PNG/Effects/shield3.png" id="3"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_player"]
+size = Vector2(112, 144)
 
 [node name="Player" type="Area2D"]
 script = ExtResource("1")
 collision_layer = 2
 collision_mask = 8
 
-[node name="Shape" type="CollisionShape2D" parent="."]
+[node name="ShieldHalo" type="Sprite2D" parent="."]
+visible = false
+modulate = Color(0.45, 0.8, 1, 0.7)
+scale = Vector2(1.92, 1.92)
+texture = ExtResource("3")
 
-[node name="Visual" type="Polygon2D" parent="."]
-polygon = PackedVector2Array(0, -30, 25, 25, 0, 10, -25, 25)
-color = Color(0.2, 0.7, 1, 1)
+[node name="Shape" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_player")
+
+[node name="Visual" type="Sprite2D" parent="."]
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("2")
+scale = Vector2(0.15, 0.15)
 
 [node name="FireSFX" type="AudioStreamPlayer2D" parent="."]
 

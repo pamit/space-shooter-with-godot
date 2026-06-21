@@ -9,3 +9,8 @@ func _physics_process(delta: float) -> void:
 	position += direction * speed * delta
 	if position.y < -50 or position.y > GameConstants.VIEWPORT_H + 50:
 		queue_free()
+
+func _on_area_entered(area: Area2D) -> void:
+	if area.is_in_group("enemy") and area.has_method("take_damage"):
+		area.take_damage(damage)
+		queue_free()
