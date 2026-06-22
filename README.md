@@ -21,11 +21,14 @@ After each manual tests, I asked the agent (Cursor with Composer) to fix issues 
 
 ## Screenshots
 
-![Screenshot-1](docs/screenshots/1.png)
-<!-- <img width="50%" alt="" src="docs/screenshots/1.png"> -->
+<img width="50%" alt="" src="docs/screenshots/1.png">
 
-![Screenshot-2](docs/screenshots/2.png)
+<img width="50%" alt="" src="docs/screenshots/2.png">
 
-![Screenshot-3](docs/screenshots/3.png)
+<img width="50%" alt="" src="docs/screenshots/3.png">
 
-![Screenshot-4](docs/screenshots/4.png)
+<img width="50%" alt="" src="docs/screenshots/4.png">
+
+## Exlosion effect
+
+https://github.com/drcd1/GodotSimpleExplosionVFX
