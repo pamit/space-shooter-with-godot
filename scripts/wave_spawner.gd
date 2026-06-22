@@ -9,7 +9,6 @@ const BOSS_WARNING_DURATION := GameConstants.BOSS_WARNING_DURATION
 const PICKUP_POOL := [
 	{"kind": "weapon", "weight": 2},
 	{"kind": "shield", "weight": 5},
-	{"kind": "barrier", "weight": 6},
 	{"kind": "triple", "weight": 5},
 ]
 
@@ -45,6 +44,7 @@ func start_level(level: int) -> void:
 	clear_projectiles()
 	clear_pickups()
 	_spawn_wave(level, _spawn_wave_token)
+	_spawn_barrier_loop(_spawn_wave_token)
 
 func _cancel_boss_warning() -> void:
 	if _boss_warning_timer != null and is_instance_valid(_boss_warning_timer):
@@ -140,13 +140,42 @@ func _on_enemy_died(enemy: Node) -> void:
 func _drop_pickup(drop_position: Vector2) -> void:
 	var pickup = PICKUP_SCENE.instantiate()
 	pickup.kind = _pick_random_pickup_kind()
-	if pickup.kind == "barrier":
-		pickup.fall_speed = _rng.randf_range(
-			GameConstants.BARRIER_FALL_SPEED_MIN,
-			GameConstants.BARRIER_FALL_SPEED_MAX
-		)
 	add_child(pickup)
 	pickup.global_position = drop_position
+
+func _spawn_barrier_loop(token: int) -> void:
+	while token == _spawn_wave_token and is_inside_tree():
+		var wait: float = _rng.randf_range(
+			GameConstants.BARRIER_SPAWN_INTERVAL_MIN,
+			GameConstants.BARRIER_SPAWN_INTERVAL_MAX
+		)
+		await get_tree().create_timer(wait).timeout
+		if token != _spawn_wave_token:
+			return
+		if _count_barriers() >= GameConstants.BARRIER_MAX_ON_SCREEN:
+			continue
+		_spawn_barrier()
+
+func _spawn_barrier() -> void:
+	var pickup = PICKUP_SCENE.instantiate()
+	pickup.kind = "barrier"
+	pickup.fall_speed = _rng.randf_range(
+		GameConstants.BARRIER_FALL_SPEED_MIN,
+		GameConstants.BARRIER_FALL_SPEED_MAX
+	)
+	add_child(pickup)
+	pickup.global_position = Vector2(
+		_rng.randf_range(80.0, GameConstants.VIEWPORT_W - 80.0),
+		-50.0
+	)
+	_spawned.append(pickup)
+
+func _count_barriers() -> int:
+	var count := 0
+	for node in get_tree().get_nodes_in_group("barrier_pickup"):
+		if is_instance_valid(node):
+			count += 1
+	return count
 
 func _pick_random_pickup_kind() -> String:
 	var total_weight := 0

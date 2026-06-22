@@ -405,6 +405,12 @@ Every level follows **wave → boss → level complete**:
 - **Faster enemy spawning:** row spawn delay **0.15s → 0.075s** (−50%).
 - **+10% per level difficulty:** unified `LEVEL_DIFFICULTY_GROWTH` (**1.1**) scales enemy **count**, **HP**, **speed**, and **boss HP** (replaces linear +3 enemies/level and 20% boss HP growth).
 
+### Session 15 — Game over fix, rockets, barrier spawner, starfield
+- **Game over Retry/Quit:** confirm dialog was behind `GameOverLayer` (layer 20); game-over panel now hides while confirm is shown; **No** restores the panel.
+- **Helper rockets:** instant kill on enemy contact (`take_damage(99999)`).
+- **Barriers:** removed from enemy pickup drops; independent timer spawner (**3.5–7s**, max **6** on screen) from top of playfield.
+- **Starfield:** replaced Kenney plus-shaped `star1.png` with procedurally generated soft radial glow sprites (bright core + halo).
+
 ### Bug fixes (across sessions)
 - **Premature boss phase:** `_begin_boss_phase()` now waits until `_wave_spawn_complete` so off-screen despawn mid-wave no longer triggers the boss early.
 - `Main.tscn` node order broke wave spawn (`GameOverSFX` before layers) — fixed.

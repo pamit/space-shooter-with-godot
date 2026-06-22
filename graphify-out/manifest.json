@@ -140,8 +140,8 @@
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1782037715.8638706,
-    "ast_hash": "4e54cd20ac0d2622d4a903203ea4e875",
+    "mtime": 1782108507.5751488,
+    "ast_hash": "dda4dd4053ef65f0643dc5a8d644bb24",
     "semantic_hash": ""
   },
   "assets/sprites/kenney/license.txt": {
@@ -155,8 +155,8 @@
     "semantic_hash": ""
   },
   "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md": {
-    "mtime": 1782045983.1422887,
-    "ast_hash": "bc67c24d3316ef2a86d5f757591099cf",
+    "mtime": 1782108872.7858863,
+    "ast_hash": "2ab51f80fc2d874c8722e2101c624f0e",
     "semantic_hash": ""
   },
   "assets/sprites/enemy.png": {
@@ -1792,6 +1792,26 @@
   "assets/sprites/meteorite.png": {
     "mtime": 1782042995.6191394,
     "ast_hash": "bc713d74035c57dde0c4ad87ce207283",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/1.png": {
+    "mtime": 1782108062.4694755,
+    "ast_hash": "14ea29c81d3181afa921d9c89008f31e",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/2.png": {
+    "mtime": 1782108081.2520905,
+    "ast_hash": "011254e3505998cc94911a20b11b0921",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/3.png": {
+    "mtime": 1782108031.77954,
+    "ast_hash": "02733bfa71bfabc03efe6c9a272db9c9",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/4.png": {
+    "mtime": 1782108039.3778355,
+    "ast_hash": "a98d9bbbd2b7b1d2f0fe21805f049848",
     "semantic_hash": ""
   }
 }

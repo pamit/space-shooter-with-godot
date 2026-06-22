@@ -18,3 +18,14 @@ After each manual tests, I asked the agent (Cursor with Composer) to fix issues 
 - Move the score text a bit up so that it aligns horizontally with the score value.
 - Test and verify, and then update the plan file.
 ```
+
+## Screenshots
+
+![Screenshot-1](docs/screenshots/1.png)
+<!-- <img width="50%" alt="" src="docs/screenshots/1.png"> -->
+
+![Screenshot-2](docs/screenshots/2.png)
+
+![Screenshot-3](docs/screenshots/3.png)
+
+![Screenshot-4](docs/screenshots/4.png)

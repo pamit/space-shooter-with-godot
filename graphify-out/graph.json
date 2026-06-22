@@ -1814,6 +1814,16 @@
       "norm_label": "refinements"
     },
     {
+      "label": "Screenshots",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "readme_screenshots",
+      "community": 17,
+      "norm_label": "screenshots"
+    },
+    {
       "label": "2026-06-20-space-shooter-mvp.md",
       "file_type": "document",
       "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
@@ -2334,10 +2344,20 @@
       "norm_label": "session 14 \u2014 difficulty scaling, spawn pacing, penta/triple priority"
     },
     {
-      "label": "Bug fixes (across sessions)",
+      "label": "Session 15 \u2014 Game over fix, rockets, barrier spawner, starfield",
       "file_type": "document",
       "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
       "source_location": "L408",
+      "_origin": "ast",
+      "id": "plans_2026_06_21_ui_graphics_upgrade_session_15_game_over_fix_rockets_barrier_spawner_starfield",
+      "community": 31,
+      "norm_label": "session 15 \u2014 game over fix, rockets, barrier spawner, starfield"
+    },
+    {
+      "label": "Bug fixes (across sessions)",
+      "file_type": "document",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L414",
       "_origin": "ast",
       "id": "plans_2026_06_21_ui_graphics_upgrade_bug_fixes_across_sessions",
       "community": 31,
@@ -2347,7 +2367,7 @@
       "label": "Testing and Success Criteria",
       "file_type": "document",
       "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
-      "source_location": "L419",
+      "source_location": "L425",
       "_origin": "ast",
       "id": "plans_2026_06_21_ui_graphics_upgrade_testing_and_success_criteria",
       "community": 2,
@@ -2357,7 +2377,7 @@
       "label": "Out of Scope (still YAGNI)",
       "file_type": "document",
       "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
-      "source_location": "L440",
+      "source_location": "L446",
       "_origin": "ast",
       "id": "plans_2026_06_21_ui_graphics_upgrade_out_of_scope_still_yagni",
       "community": 2,
@@ -2367,7 +2387,7 @@
       "label": "Kenney Asset Sources (CC0)",
       "file_type": "document",
       "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
-      "source_location": "L451",
+      "source_location": "L457",
       "_origin": "ast",
       "id": "plans_2026_06_21_ui_graphics_upgrade_kenney_asset_sources_cc0",
       "community": 2,
@@ -2377,7 +2397,7 @@
       "label": "Third-Party Assets",
       "file_type": "document",
       "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
-      "source_location": "L457",
+      "source_location": "L463",
       "_origin": "ast",
       "id": "plans_2026_06_21_ui_graphics_upgrade_third_party_assets",
       "community": 2,
@@ -3908,6 +3928,16 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "readme_space_shooter_with_godot",
+      "target": "readme_screenshots",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "docs/superpowers/plans/2026-06-20-space-shooter-mvp.md",
       "source_location": "L1",
       "weight": 1.0,
@@ -4361,8 +4391,18 @@
       "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
       "source_location": "L402",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
-      "target": "plans_2026_06_21_ui_graphics_upgrade_session_14_difficulty_scaling_spawn_pacing_penta_triple_priority",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_14_difficulty_scaling_spawn_pacing_penta_triple_priority"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/superpowers/plans/2026-06-21-ui-graphics-upgrade.md",
+      "source_location": "L408",
+      "weight": 1.0,
+      "source": "plans_2026_06_21_ui_graphics_upgrade_changelog_iterative_updates_after_initial_plan",
+      "target": "plans_2026_06_21_ui_graphics_upgrade_session_15_game_over_fix_rockets_barrier_spawner_starfield",
       "confidence_score": 1.0
     },
     {
@@ -4457,5 +4497,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "c54674cf2f9c5852d7b0f8df12c84e1b85bf641f"
+  "built_at_commit": "645d055c6097dd3862fffe1ffdc8ddc8e10681e5"
 }

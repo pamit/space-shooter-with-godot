@@ -25,7 +25,8 @@ func _physics_process(delta: float) -> void:
 		queue_free()
 
 func _on_area_entered(area: Node) -> void:
-	if area.is_in_group("enemy") and area.has_method("take_damage"):
-		area.take_damage(damage)
-		VisualEffects.spawn_rocket_impact(get_parent(), global_position)
-		queue_free()
+	if not area.is_in_group("enemy") or not area.has_method("take_damage"):
+		return
+	area.take_damage(99999.0)
+	VisualEffects.spawn_rocket_impact(get_parent(), global_position)
+	queue_free()

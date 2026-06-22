@@ -1,3 +1,6 @@
 # .superpowers/
 .godot/
 tmp/
+.DS_Store
+
+graphify-out/cache

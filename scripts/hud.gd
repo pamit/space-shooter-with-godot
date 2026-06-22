@@ -34,6 +34,7 @@ const HEALTH_PLUS_OFFSET_LEFT := 6
 @onready var penta_shot_button: Button = $BottomPanel/Margin/BottomRow/ActionButtons/PentaShotButton
 
 var _confirm_yes_action: Callable = Callable()
+var _confirm_cancel_action: Callable = Callable()
 
 func _ready() -> void:
 	pause_overlay.visible = false
@@ -78,13 +79,15 @@ func disable_penta_shot() -> void:
 	penta_shot_button.disabled = true
 	_apply_ability_button_style(penta_shot_button, false, false)
 
-func show_confirm(on_yes: Callable) -> void:
+func show_confirm(on_yes: Callable, on_cancel: Callable = Callable()) -> void:
 	_confirm_yes_action = on_yes
+	_confirm_cancel_action = on_cancel
 	confirm_overlay.visible = true
 
 func hide_confirm() -> void:
 	confirm_overlay.visible = false
 	_confirm_yes_action = Callable()
+	_confirm_cancel_action = Callable()
 
 func _apply_ability_button_style(button: Button, enabled: bool, shift_plus_right: bool) -> void:
 	if enabled:
@@ -217,4 +220,7 @@ func _on_confirm_yes_pressed() -> void:
 		action.call()
 
 func _on_confirm_no_pressed() -> void:
+	var cancel := _confirm_cancel_action
 	hide_confirm()
+	if cancel.is_valid():
+		cancel.call()

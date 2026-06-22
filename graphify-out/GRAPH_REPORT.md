@@ -1,16 +1,16 @@
-# Graph Report - space-shooter  (2026-06-21)
+# Graph Report - space-shooter  (2026-06-22)
 
 ## Corpus Check
-- 31 files · ~491,289 words
+- 31 files · ~578,287 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 238 nodes · 207 edges · 32 communities (18 shown, 14 thin omitted)
+- 240 nodes · 209 edges · 32 communities (19 shown, 13 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `c54674cf`
+- Built from commit: `645d055c`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -48,7 +48,7 @@
 - [[_COMMUNITY_Community 31|Community 31]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `Changelog (iterative updates after initial plan)` - 16 edges
+1. `Changelog (iterative updates after initial plan)` - 17 edges
 2. `File Structure` - 14 edges
 3. `UI and Graphics Upgrade Implementation Plan` - 13 edges
 4. `Task 2 Report: Difficulty formulas (pure, tested)` - 10 edges
@@ -65,7 +65,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (32 total, 14 thin omitted)
+## Communities (32 total, 13 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.11
@@ -131,14 +131,18 @@ Nodes (5): Commit, Concerns, Task 10 Report: Wave spawner, Verification, What wa
 Cohesion: 0.33
 Nodes (5): Commit created, Concerns, Task 1 Report: Project scaffold + balance constants, Verification command and output, What was done
 
+### Community 17 - "Community 17"
+Cohesion: 0.50
+Nodes (3): Refinements, Screenshots, Space Shooter with Godot
+
 ### Community 31 - "Community 31"
 Cohesion: 0.12
-Nodes (16): Bug fixes (across sessions), Changelog (iterative updates after initial plan), Session 10 — Combat tuning, pickups, pause menu, HUD polish, Session 11 — Combat zone, pause UX, VFX, rockets, pickups, Session 12 — Explosion VFX, game-over ship, meteorite barrier, rocket speeds, Session 13 — Barriers, enemy speed, penta-shot, confirm dialog, player visual, Session 14 — Difficulty scaling, spawn pacing, penta/triple priority, Session 1 — Core visual upgrade (+8 more)
+Nodes (17): Bug fixes (across sessions), Changelog (iterative updates after initial plan), Session 10 — Combat tuning, pickups, pause menu, HUD polish, Session 11 — Combat zone, pause UX, VFX, rockets, pickups, Session 12 — Explosion VFX, game-over ship, meteorite barrier, rocket speeds, Session 13 — Barriers, enemy speed, penta-shot, confirm dialog, player visual, Session 14 — Difficulty scaling, spawn pacing, penta/triple priority, Session 15 — Game over fix, rockets, barrier spawner, starfield (+9 more)
 
 ## Knowledge Gaps
-- **170 isolated node(s):** `Finding 1 (Critical) — Player-enemy contact bypasses death contract`, `Finding 2 (Minor) — dead code cleanup`, `Finding 3 (Minor) — extract remaining balance magic numbers`, `Finding 4 (Important) — missing test assertions`, `Test suite` (+165 more)
+- **172 isolated node(s):** `Finding 1 (Critical) — Player-enemy contact bypasses death contract`, `Finding 2 (Minor) — dead code cleanup`, `Finding 3 (Minor) — extract remaining balance magic numbers`, `Finding 4 (Important) — missing test assertions`, `Test suite` (+167 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **14 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **13 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
@@ -146,9 +150,9 @@ _Questions this graph is uniquely positioned to answer:_
 - **Why does `UI and Graphics Upgrade Implementation Plan` connect `Community 2` to `Community 31`?**
   _High betweenness centrality (0.020) - this node is a cross-community bridge._
 - **Why does `Changelog (iterative updates after initial plan)` connect `Community 31` to `Community 2`?**
-  _High betweenness centrality (0.016) - this node is a cross-community bridge._
+  _High betweenness centrality (0.017) - this node is a cross-community bridge._
 - **What connects `Finding 1 (Critical) — Player-enemy contact bypasses death contract`, `Finding 2 (Minor) — dead code cleanup`, `Finding 3 (Minor) — extract remaining balance magic numbers` to the rest of the system?**
-  _170 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _172 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**

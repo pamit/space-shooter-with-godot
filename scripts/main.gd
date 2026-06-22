@@ -151,7 +151,8 @@ func _on_player_died() -> void:
 	GameAudio.play_1d(game_over_sfx, GameAudio.GAME_OVER)
 
 func _on_retry_pressed() -> void:
-	hud.show_confirm(_execute_retry)
+	game_over_panel.visible = false
+	hud.show_confirm(_execute_retry, func() -> void: game_over_panel.visible = true)
 
 func _execute_retry() -> void:
 	get_tree().paused = false
@@ -169,7 +170,8 @@ func _on_pause_quit_pressed() -> void:
 	get_tree().change_scene_to_file("res://scenes/MainMenu.tscn")
 
 func _on_quit_pressed() -> void:
-	hud.show_confirm(_execute_quit)
+	game_over_panel.visible = false
+	hud.show_confirm(_execute_quit, func() -> void: game_over_panel.visible = true)
 
 func _execute_quit() -> void:
 	get_tree().paused = false
